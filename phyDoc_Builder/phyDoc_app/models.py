@@ -19,6 +19,5 @@ class Document_details(models.Model):
     
     def __str__(self):
         return str(self.id)
-    # def __str__(self):
-    #     return str(self.id) if self.id else ''
+
 
