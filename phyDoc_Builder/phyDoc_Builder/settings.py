@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'phyDoc_app',
-    'rest_framework'
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
