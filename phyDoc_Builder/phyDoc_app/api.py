@@ -6,3 +6,7 @@ from .models import Document_templates
 class Document_templatesCreateApi(generics.CreateAPIView):
     queryset = Document_templates.objects.all()
     serializer_class = Document_templatesSerializer
+
+class Document_templatesUpdateApi(generics.RetrieveUpdateAPIView):
+    queryset =  Document_templates.objects.all()
+    serializer_class = Document_templatesSerializer
