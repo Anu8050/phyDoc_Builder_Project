@@ -25,3 +25,10 @@ class Document_detailsCreateApi(generics.CreateAPIView):
     queryset = Document_details.objects.all()
     serializer_class = Document_detailsSerializer
 
+class Document_detailsListApi(generics.ListAPIView):
+    queryset = Document_details.objects.all()
+    serializer_class = Document_detailsSerializer
+    
+class Document_detailsDeleteApi(generics.DestroyAPIView):
+    queryset = Document_details.objects.all()
+    serializer_class = Document_detailsSerializer
