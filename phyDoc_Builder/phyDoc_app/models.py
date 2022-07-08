@@ -18,5 +18,6 @@ class Document_details(models.Model):
     isRequired = models.BooleanField(default=False)
     
     def __str__(self):
-        return self.id
+        return str(self.id)
+
 
