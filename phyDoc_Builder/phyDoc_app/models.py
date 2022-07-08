@@ -8,11 +8,11 @@ class Document_templates(models.Model):
     Document_template_path = models.TextField(max_length=500)
     
     def __str__(self):
-        return self.id
+        return str(self.id)
 
 class Document_details(models.Model):
     id = models.IntegerField(primary_key=True)
-    templateid = models.ForeignKey(Document_templates, on_delete=models.CASCADE)
+    templateid = models.ForeignKey(Document_templates,on_delete=models.SET_NULL,null=True)
     field_name = models.CharField(max_length=80)
     field_type = models.CharField(max_length=80)
     isRequired = models.BooleanField(default=False)
