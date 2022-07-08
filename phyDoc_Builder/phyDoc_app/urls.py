@@ -6,5 +6,5 @@ urlpatterns = [
     path('',Document_templatesCreateApi.as_view()),
     path('api',Document_templatesListApi.as_view()),
     path('api/<int:pk>',Document_templatesUpdateApi.as_view()),
-    path('api/<int:pk>',Document_templatesDeleteApi.as_view()),
+    path('api/delete/<int:pk>',Document_templatesDeleteApi.as_view()),
 ]
