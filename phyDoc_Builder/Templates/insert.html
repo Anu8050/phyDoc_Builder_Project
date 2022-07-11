@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>Create the document template</title>
+</head>
+<body>
+    <center>
+        <h1>inserting for document template</h1>
+        <h2>using django restframework</h2>
+        <form method="POST">
+            {% csrf_token %}
+        <table border="1">
+            <tr>
+                <td>document template id</td>
+                <td><input type="text" placeholder="template id.."name="id"></td>
+            </tr>
+            <tr>
+                <td>document template name</td>
+                <td><input type="text" placeholder="template name.."name="name"></td>
+            </tr>
+            <tr>
+                <td>document template path</td>
+                <td><input type="text" placeholder="template path.."name="Document_template_path"></td>
+            </tr>
+        </table>
+        <input type="submit" value="insert"/>
+    </form>
+    </center>
+</body>
+</html>
