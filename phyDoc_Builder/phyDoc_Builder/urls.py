@@ -20,6 +20,8 @@ from . import views
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
-    path('apiend',views.insertTemplate)
+    path('apiend',views.insertTemplate),
+    path('venue_pdf',views.venue_pdf,name='venue_pdf'),
+    
 
 ]
