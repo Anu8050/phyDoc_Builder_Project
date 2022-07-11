@@ -20,6 +20,7 @@ from . import views
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
-    path('apiend',views.insertTemplate)
+    path('apiend',views.insertTemplate),
+    path('ddapiend',views.insertDD),
 
 ]
