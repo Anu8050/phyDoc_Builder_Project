@@ -22,6 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('apiend',views.insertTemplate),
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
-    
-
+    path('ddapiend',views.insertDD),
 ]
