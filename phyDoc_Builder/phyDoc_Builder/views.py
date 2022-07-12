@@ -96,7 +96,7 @@ def venue_pdf(request):
     c.save()  
     buf.seek(0)  
 
-    return FileResponse(buf,as_attachment=True,filename='venue1.pdf')
+    return FileResponse(buf,as_attachment=True,filename='generatedpdf.pdf')
 
 
 
