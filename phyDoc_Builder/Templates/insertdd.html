@@ -16,12 +16,11 @@
             <tr>
                 <td>document template id</td>
                 <td>
-
-                    
-                       
-                            <input type="text" name="templateid" placeholder=" template id.."> {{id}}
-                        
-                    
+                    <select name="name" class="form-control">
+                        {% for results in bindingid %}
+                                 <option value="{{ results.id}}">{{ results.id}}</option>
+                        {% endfor %}
+                    </select>
 
                 </td>
 

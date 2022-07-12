@@ -9,6 +9,13 @@ from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
 
+#generating a pdf file
+from django.http import FileResponse
+import io
+from reportlab.pdfgen import canvas
+from reportlab.lib.units import inch
+from reportlab.lib.pagesizes import letter
+
 def insertTemplate(request):
     if request.method=="POST":
         id=request.POST.get('id')  
@@ -35,14 +42,6 @@ def insertDD(request):
         return render(request,'insertdd.html')
     else:
         return render(request,'insertdd.html') 
-   
-
-#generating a pdf file
-from django.http import FileResponse
-import io
-from reportlab.pdfgen import canvas
-from reportlab.lib.units import inch
-from reportlab.lib.pagesizes import letter
 
 def insertTemplate(request):
     if request.method=="POST":
@@ -98,7 +97,9 @@ def venue_pdf(request):
 
     return FileResponse(buf,as_attachment=True,filename='generatedpdf.pdf')
 
-
+def id_binding(request):
+    results=Document_templates.objects.all
+    return render(request, "insertdd.html",{"bindingid":results})
 
    
 
