@@ -43,19 +43,7 @@ def insertDD(request):
     else:
         return render(request,'insertdd.html') 
 
-def insertTemplate(request):
-    if request.method=="POST":
-        id=request.POST.get('id')  
-        name=request.POST.get('name')   
-        Document_template_path=request.POST.get('Document_template_path') 
-        data={'id':id,'name':name,'Document_template_path':Document_template_path}
-        headers={'Content-Type': 'application/json'}
-        read= requests.post('http://127.0.0.1:8000/Document_templates/CreateDT',json=data,headers=headers)
-        return render(request,'insert.html')
-    else:
-        return render(request,'insert.html') 
-       
-def insertDD(request):
+
     if request.method=="POST":
         id=request.POST.get('id')  
         templateid =request.POST.get('templateid')
