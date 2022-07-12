@@ -9,6 +9,13 @@ from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
 
+#generating a pdf file
+from django.http import FileResponse
+import io
+from reportlab.pdfgen import canvas
+from reportlab.lib.units import inch
+from reportlab.lib.pagesizes import letter
+
 def insertTemplate(request):
     if request.method=="POST":
         id=request.POST.get('id')  
@@ -19,9 +26,8 @@ def insertTemplate(request):
         read= requests.post('http://127.0.0.1:8000/Document_templates/CreateDT',json=data,headers=headers)
         return render(request,'insert.html')
     else:
-        return render(request,'insert.html')      
-    
-    
+        return render(request,'insert.html') 
+       
 def insertDD(request):
     if request.method=="POST":
         id=request.POST.get('id')  
@@ -35,6 +41,38 @@ def insertDD(request):
         return render(request,'insertdd.html')
     else:
         return render(request,'insertdd.html') 
+  
+  
+#pdf
+def venue_pdf(request):
+
+    buf = io.BytesIO()
+    c = canvas.Canvas(buf, pagesize=letter,bottomup=0)
+    textob = c.beginText()
+    textob.setTextOrigin(inch, inch)
+    textob.setFont("Helvetica",14)
+
+    doc =Document_templates.objects.all()
+    lines = []
+
+    for venue in doc:
+        lines.append(str(venue.id))
+        lines.append(venue.name)
+        lines.append(venue.Document_template_path)
+        lines.append("")
+
+    for line in lines:
+        textob.textLine(line)
+    c.drawText(textob)
+    c.showPage()
+    c.save()  
+    buf.seek(0)  
+
+    return FileResponse(buf,as_attachment=True,filename='venue1.pdf')
+
+
+
    
+
 
 
