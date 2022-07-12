@@ -12,5 +12,4 @@ urlpatterns = [
     path('Document_details/ListDD',Document_detailsListApi.as_view()),
     path('Document_details/Update/<int:pk>',Document_detailsUpdateApi.as_view()),
     path('Document_details/Delete/<int:pk>',Document_detailsDeleteApi.as_view()),
-    
 ]
