@@ -1,0 +1,76 @@
+class Node:
+    def __init__(self, name):
+	self. name = name
+	self.next = None
+class LinkedList:
+
+	
+	def __init__(self):
+		self.head = None
+
+	def sortedInsert(self, new_node):
+		
+		
+		if self.head is None:
+			new_node.next = self.head
+			self.head = new_node
+
+		
+		elif self.head.data >= new_node.data:
+			new_node.next = self.head
+			self.head = new_node
+
+		else :
+
+			
+			current = self.head
+			while(current.next is not None and
+				current.next.data < new_node.data):
+				current = current.next
+			
+			new_node.next = current.next
+			current.next = new_node
+
+	
+	def push(self, name, age, salary):
+		new_node = Node(name,age,salary)
+        
+        
+
+
+		new_node.next = self.head
+		self.head = new_node
+    
+
+
+	def printList(self):
+		temp = self.head
+		while(temp):
+			print (temp.data),
+			temp = temp.next
+
+
+
+llist = LinkedList()
+new_node = Node("vda")#,20,40000)
+llist.sortedInsert(new_node)
+new_node = Node("priya")#,25,50000)
+llist.sortedInsert(new_node)
+new_node = Node("divya")#,23,60000)
+llist.sortedInsert(new_node)
+new_node = Node("vijet")#,22,65000)
+llist.sortedInsert(new_node)
+new_node = Node("anusha")#,24,70000)
+llist.sortedInsert(new_node)
+new_node = Node("akshatha")#,23,65000)
+llist.sortedInsert(new_node)
+new_node = Node("sada")#,30,80000)
+llist.sortedInsert(new_node)
+new_node = Node("praveen")#,29,75000)
+llist.sortedInsert(new_node)
+new_node = Node("suhas")#,22,50000)
+llist.sortedInsert(new_node)
+new_node = Node("atharava")#,18,40000)
+llist.sortedInsert(new_node)
+print ("Create Linked List")
+llist.printList()

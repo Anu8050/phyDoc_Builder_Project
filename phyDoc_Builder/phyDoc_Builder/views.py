@@ -8,8 +8,8 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
-from django.views import generic
-
+from rest_framework.views import APIView
+from rest_framework.parsers import MultiPartParser, FormParser
 #generating a pdf file
 from django.http import FileResponse
 import io
@@ -77,6 +77,8 @@ def venue_pdf(request):
 # def id_binding(request):
 #     results=Document_templates.objects.all
 #     return render(request, "insertdd.html",{"bindingid":results})
+
+
 
 
    

@@ -1,0 +1,59 @@
+1.Class and objects
+2.methods
+3.properties
+4.static classes
+5.static methods
+6.abstraction
+7.interfaces
+8.encapsulation
+9.access modifier
+10.constructors
+11.inheritance
+12.Data structures
+
+
+1.class and object:
+class syntax:
+class classname{
+public     //access specifier
+int number  //attribute variable
+string name
+}; // attribute variable
+
+object 
+class Clsname{
+public:
+int number;
+string name;
+};
+int main()
+{
+Clsname myobj;   //creating object
+myobj.number=15;
+myobj.name="some name";
+cout<<myobj.number<<"\n";
+cout<<myobj.name;
+return 0;
+
+Creating the mutiple objects:
+class Clsname{
+public:
+string name;
+int age;
+};
+int main(){
+Clsname myobjs;//creating 1st object
+myobjs.name="adv";
+myobjs.age=20;
+
+Clsname myobjs1;//creating 2nd object
+myobjs1.name="dav";
+myobjs1.age=23;
+
+cout<<myobjs.name<<" "<<myobjs.age<<"\n"
+cout<<myobjs1.name<<" "<<myobjs.age<<"\n"
+
+return 0;
+ 
+
+ 

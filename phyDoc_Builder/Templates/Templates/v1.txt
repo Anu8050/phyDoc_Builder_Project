@@ -1,0 +1,650 @@
+44
+"Lower respiratory infection
+
+ 	
+Start Promethazine VC Plain Syrup, 6.25-5 MG/5ML, 5 ml as needed, Orally, every 6 hrs, 5 days, 100 ml, Refills 0
+         Notes: will give cough med without codeine, do not want to suppress her resp function further; O2 ordered, to be delivered tonight, appointment scheduled with Dr. Nickens tomorrow at 11:00 am, Will return for follow up and labs as directed. Total time of >40 min spent in review of chart, face to face evaluation of pt, discussion of health history, symptoms, diagnostic testing, review of test results, treatment plan, and documentation after visit.
+
+     Cough
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                	Value	Reference Range
+                SARS CoV 2 RNA	Negative		NEG - NEG
+           	McCampbell,Dorthy 01/03/2022 08:02:34 PM CST > DONE.DM
+         Imaging:X ray : Chest (PA lateral)
+           	Nokes,Linda 01/03/2022 08:12:29 PM CST > 2 view chest xray done
+         Notes: 2 LT OF OXYGEN PLACED ON PATIENT AT 7;43PM, 92%, drops to 87% on RA.
+
+     Fever
+         Lab:Influenza DNA AMP Probe
+                	Value	Reference Range
+                FLU A	negative		
+                FLU B	negative		
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                	Value	Reference Range
+                SARS CoV 2 RNA	Negative		NEG - NEG
+           	McCampbell,Dorthy 01/03/2022 08:02:34 PM CST > DONE.DM
+     Close exposure to 2019 novel coronavirus
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                	Value	Reference Range
+                SARS CoV 2 RNA	Negative		NEG - NEG
+           	McCampbell,Dorthy 01/03/2022 08:02:34 PM CST > DONE.DM
+     Others
+         Notes: Pt is stable on all meds. Will return for follow up and labs as directed. Total time of 30 min spent in review of chart, face to face evaluation of pt, discussion of health history, symptoms, diagnostic testing, review of test results, treatment plan, and documentation after visit."
+
+
+72
+"Bronchitis
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start ProAir HFA Aerosol Solution, 108 (90 Base) MCG/ACT, 2 puffs as needed, Inhalation, every 6 hrs, 10 days, 1 Inhaler, Refills 0
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 to 6 hrs, 6 days, 200 ml, Refills 0
+ 	
+Start predniSONE Tablet, 20 MG, 3 tabs in am once a day x 3 days, 2 tabs in am once day x 3 days, 1 tab in am once a day x 3 days, Orally, as directed, 9 days, 18, Refills 0
+     Close exposure to 2019-nCoV
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT
+                	Value	Reference Range
+                SARS CoV 2 RNA	negative		NEG - NEG
+           	Alvidrez,Susana 01/10/2022 02:09:43 PM CST > done sa
+         Notes: pt declines flu test, steroid injection not appropriate She had a steroid the week before Christmas, Covid test is neg today. If symptoms develop, remain, or worsen may need to RTO for repeat test and treatment.
+
+     Pain in throat
+         Lab:Strep A DNA AMP Probe
+                	Value	Reference Range
+                STREP A	negative		
+           	Alvidrez,Susana 01/10/2022 02:02:11 PM CST > done sa
+     Cough
+         Imaging:X ray : Chest (PA lateral)
+           	Nokes,Linda 01/10/2022 02:32:16 PM CST > 2 view chest xray done Turnbow,Patricia 01/10/2022 09:43:08 PM CST > no active chest disease
+     Others
+         Notes: Taught to drink plenty of fluid and get plenty of rest. Take plain Mucinex with a full glass of water to loosen mucus. Educated regarding new medications & possible side effects. Refrain from physical activity until symptoms improve. Take Tylenol/Advil for fevers and pains. Taught S & S that warrent immediate medical attention such as SOB, Green/yellow sputum, or worsening of symptoms. ."
+
+471
+"Bronchitis, not specified as acute or chronic
+
+ 	
+Start Zithromax Z-Pak Tablet, 250 MG, 2 tablets on the first day, then 1 tablet daily for 4 days, Orally, as directed, 5 day(s), 1 Dose Pack, Refills 0
+ 	
+Start predniSONE Tablet, 20 MG, 1 tablet, Orally, bid, 5 days, 10 Tablet, Refills 0
+ 	
+Start ProAir HFA Aerosol Solution, 108 (90 Base) MCG/ACT, 2 puffs as needed, Inhalation, every 6 hrs, 1 month, 1 Inhaler, Refills 0
+         Notes: Acute bronchitis material was published to portal
+-use ibuprofen as per package dosing as needed for fever/pain
+-follow up 2-3 days , sooner if condition worsens."
+
+483
+"Bronchitis
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start Symbicort Aerosol, 160-4.5 MCG/ACT, 2 puffs, Inhalation, Twice a day, 30 days, 1, Refills 1
+ 	
+Start Benzonatate Capsule, 200 MG, 1 capsule as needed, Orally, Three times a day, 10 days, 30 Capsule, Refills 0
+         Notes: printed scripts given to pt.
+
+     Cough
+         Imaging:X ray : Chest (PA lateral)
+           	Nokes,Linda 03/15/2022 04:20:19 PM CDT > 2 view chest xray done Turnbow,Patricia 03/27/2022 10:50:13 AM CDT > mild cardiomegaly, no pneumonic consolidation or effusion
+     Others
+         Notes: Taught to drink plenty of fluid and get plenty of rest. Take plain Mucinex with a full glass of water to loosen mucus. Educated regarding new medications & possible side effects. Refrain from physical activity until symptoms improve. Take Tylenol/Advil for fevers and pains. Taught S & S that warrent immediate medical attention such as SOB, Green/yellow sputum, or worsening of symptoms. ."
+
+
+
+
+
+306-->Done
+"Gastroenteritis
+
+ 	
+Start Zofran ODT Tablet Disintegrating, 8 MG, as directed, Orally, every 8 hrs, 3 days, 9 Tablet, Refills 0
+         Notes: Usually a self-limited illness with an excellent prognosis. Most likely a viral etiology. Push fluids and keep hydrated, eat a bland diet, BR
+AT diet, and rest. f/u 2 days or sooner if needed.
+
+     Cough
+         Lab:SOFIA 2 (Inf A/B & COVID)
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+                COVID	neg		
+           	Strobel,Nicki 01/03/2022 12:18:48 PM CST > done, reported, ns
+     Diarrhea, unspecified type
+         Lab:Stool Culture *
+         Lab:Ova + Parasite Exam Send out *
+         Lab:Stool, WBC
+         Lab:UA Dip at nurses station only FMA
+                	Value	Reference Range
+                Urine color	dark brown		
+                Appearance	cloudy		
+                Leukocytes ( 2 Minutes)	2+		
+                Nitrite ( 60 seconds )	neg		
+                Urobilinogen ( 60 seconds)	3.5		
+                Protein (60 seconds)	1+		
+                pH (60 seconds)	6.0		
+                Blood (60 seconds)	+- 10 ERY		
+                Specific Gravity (45 seconds)	1.025		
+                Ketone (40 seconds)	neg		
+                Bilirubin (30 seconds)	1+		
+                Glucose (30 Seconds)	neg		
+         Lab:SOFIA 2 (Inf A/B & COVID)
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+                COVID	neg		
+           	Strobel,Nicki 01/03/2022 12:18:48 PM CST > done, reported, ns
+         Lab:Urine Culture, Routine *
+                	Value	Reference Range
+                Urine Culture, Routine	Final report	A	-
+                Result 1	Enterococcus faecalis	A	-
+                Antimicrobial Susceptibility			
+           	Nokes,Linda 01/03/2022 12:46:56 PM CST > done Krtalic,Renea 01/08/2022 05:26:48 PM CST > Covered with prescribed macrobid.
+         Lab:C difficile Toxins A+B, EIA Send out*
+                	Value	Reference Range
+                C difficile Toxins A+B, EIA	Positive	A	Negative -
+           	Krtalic,Renea 01/08/2022 05:41:07 PM CST > see phone encounter
+     Nausea
+         Lab:Glucose, Glucometer, Done by nursing (Finger Stick)
+                	Value	Reference Range
+                Finger Stick Glucose (Glucometer)	145		
+         Lab:SOFIA 2 (Inf A/B & COVID)
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+                COVID	neg		
+           	Strobel,Nicki 01/03/2022 12:18:48 PM CST > done, reported, ns
+         Lab:CBC with Differential/Platelets - Sendout
+                	Value	Reference Range
+                WBC	TNP		- x10E3/uL
+                RBC	TNP		-
+                Hemoglobin	TNP		-
+                Hematocrit	TNP		-
+                MCV			
+                MCH			
+                MCHC			
+                Neutrophils	TNP		-
+                Lymphs	TNP		-
+                Monocytes	TNP		-
+                Eos	TNP		-
+                Basos			
+                Platelets	TNP		-
+                Hematology Comments:			
+                Neutrophils (Absolute)			
+                Lymphs (Absolute)	TNP		-
+                Monocytes(Absolute)			
+                Eos (Absolute)	TNP		-
+                Baso (Absolute)	TNP		-
+                RDW			
+                Immature Cells			
+                Immature Granulocytes			
+                Immature Grans (Abs)			
+                NRBC			
+                Request Problem	TNP		-
+         Lab:Comp. Metabolic Panel - Sendout
+                	Value	Reference Range
+                Calcium, Serum	9.1		8.7-10.2 - mg/dL
+                Glucose, Serum	138	H	65-99 - mg/dL
+                BUN	18		6-24 - mg/dL
+                Protein, Total, Serum	6.1		6.0-8.5 - g/dL
+                Albumin, Serum	4.2		3.8-4.9 - g/dL
+                Bilirubin, Total	0.4		0.0-1.2 - mg/dL
+                Alkaline Phosphatase, S	75		44-121 - IU/L
+                AST (SGOT)	30		0-40 - IU/L
+                Potassium, Serum	3.5		3.5-5.2 - mmol/L
+                Sodium, Serum	142		134-144 - mmol/L
+                Chloride, Serum	105		96-106 - mmol/L
+                Creatinine, Serum	0.81		0.76-1.27 - mg/dL
+                ALT (SGPT)	71	H	0-44 - IU/L
+                Carbon Dioxide, Total	24		20-29 - mmol/L
+                BUN/Creatinine Ratio	22	H	9-20 -
+                Globulin, Total	1.9		1.5-4.5 - g/dL
+                A/G Ratio	2.1		1.2-2.2 -
+                eGFR If NonAfricn Am	100		>59 - mL/min/1.73
+                eGFR If Africn Am	116		>59 - mL/min/1.73
+     Acute cystitis with hematuria
+
+ 	
+Start Macrobid Capsule, 100 MG, 1 capsule, Orally, twice, 10 days, 20 Capsule, Refills 0
+         Notes: Force fluids/ Maintain hydration
+Tyl/Ibu OTC as directed for pain/temp
+Discussed OTC cranberry supplement
+Discussed UTI Px techniques
+
+Culture sent
+
+
+Discussed importance of completing entire antibiotic course
+Rx:
+
+RTC worsening s/s and PRN.
+
+     History of diabetes mellitus
+         Notes: Monitor BS closely until resolved- notify pcp of extreme highs or lows- verbalized understanding.
+
+     Others
+         Notes: I spent 20 minutes reviewing the patient's chart, diagnostic tests, seeing the patient talking with the visiting nurse, and documenting in the record."
+
+
+
+
+
+
+35
+"Close exposure to 2019-nCoV
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT
+                	Value	Reference Range
+                SARS CoV 2 RNA	negative		NEG - NEG
+           	McCampbell,Dorthy 01/10/2022 03:41:05 PM CST > done.dm
+     Pain in throat
+         Lab:Strep A DNA AMP Probe  Negative
+                	Value	Reference Range
+                STREP A	Negative		
+           	McCampbell,Dorthy 01/10/2022 04:58:55 PM CST > done.dm
+     Body aches
+         Lab:Influenza DNA AMP Probe  Negative
+                	Value	Reference Range
+                FLU A	Negative		
+                FLU B	Negative		
+           	McCampbell,Dorthy 01/10/2022 04:59:26 PM CST > DONE.DM
+     Others
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start Ivermectin Tablet, 3 MG, take 5 tabs day 1 and 5 tabs day 3, Orally, as directed, 2 days, 10, Refills 0
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 to 6 hrs, 6 days, 200 ml, Refills 0
+         Notes: Rapid test is neg. Clinical presentation and evaluation is consistent with a covid infection. Will treat accordingly."
+
+
+390
+"Encounter for immunization
+         Notes: Patient was given an injection and instructed to wait for 15 minutes, then left without a reaction.
+Patient identified using the 2 Point Patient Identifier twice prior to treatment. mflores ma."
+
+64
+"COVID
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start Ivermectin Tablet, 3 MG, take 9 tabs day 1 and 9 tabs day 3, Orally, as directed, 2 days, 18, Refills 0
+ 	
+Start ProAir HFA Aerosol Solution, 108 (90 Base) MCG/ACT, 2 puffs as needed, Inhalation, every 6 hrs, 10 days, 1 Inhaler, Refills 0
+ 	
+Start Benzonatate Capsule, 200 MG, 1 capsule as needed, Orally, Three times a day, 10 days, 30 Capsule, Refills 0
+         Notes: Pt is stable on all meds. Will return for follow up and labs as directed. Total time of 30 min spent in review of chart, face to face evaluation of pt, discussion of health history, symptoms, diagnostic testing, review of test results, treatment plan, and documentation after visit.
+
+     Pain in throat
+         Lab:Strep A DNA AMP Probe  Negative
+                	Value	Reference Range
+                STREP A	Negative		
+           	McCampbell,Dorthy 01/03/2022 04:41:16 PM CST > DONE.DM
+     Body aches
+         Lab:Influenza DNA AMP Probe
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+           	McCampbell,Dorthy 01/03/2022 04:41:31 PM CST > DONE.DM
+     Others
+         Notes: Covid protocol sheet given to pt, Rapid covid test is positive. Isolate for 5 days. Follow the covid handout for care at home. Stay hydrated. If resp status worsens, come in here for reevaluation and neb treatment. Or go to a free standing ER. Try to avoid the hospital ERs d/t overload of covid patients."
+
+36-->Done
+"Acute URI
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+     Fatigue, unspecified type
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT
+                	Value	Reference Range
+                SARS CoV 2 RNA	neg		NEG - NEG
+           	Turpen,Angie 01/01/2022 02:11:37 PM CST > Done. AT Turpen,Angie 01/01/2022 02:31:42 PM CST > Scanned
+     Others
+         Notes: fluids, rest, supportive measures for fever/symptom relief."
+
+83
+"COVID-19
+
+ 	
+Start Zithromax Z-Pak Tablet, 250 MG, 2 tablets on the first day, then 1 tablet daily for 4 days, Orally, as directed, 5 day(s), 1 Dose Pack, Refills 0
+ 	
+Start Ivermectin Tablet, 3 MG, as directed, Orally, 7 tabs today, then repeat in 3 days, 2 days, 14 Tablet, Refills 0
+         Clinical Notes: -30 minutes spent wtih patient review chart/medication/history/lab review/patient education/answer questions.
+
+     Fever
+
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 hrs, 5 days, 300 ml, Refills 0
+         Lab:Strep A DNA AMP Probe  Negative
+                	Value	Reference Range
+                STREP A	Negative		
+           	Nava,Bianca 01/14/2022 11:41:34 AM CST > Done..bn
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Positive
+                	Value	Reference Range
+                SARS CoV 2 RNA	Positive		NEG - NEG
+           	Nava,Bianca 01/14/2022 11:38:14 AM CST > Done..bn
+         Lab:Coronavirus (COVID-19), NAA  Abnormal
+                	Value	Reference Range
+                SARS-CoV-2, NAA	Detected	A	Not Detected -
+           	Flores,Martha 01/19/2022 01:27:17 PM CST > positive covid send out, continue present tx, check and see how he is doing Flores,Martha 01/19/2022 01:26:57 PM CST > Nava,Bianca 01/19/2022 02:21:22 PM CST > Pt informed about results..bn
+     Others
+         Notes: -covid education given
+-covid isolation as per CDC
+-ibuprofen/tylenol prn pain/fever
+-monitor resp distress, go to the ER if symptoms worsen."
+
+
+373
+"Other allergic rhinitis
+         Notes: Kenalog 40 mg IM
+Stop taking the Dicongestant
+Take Claritin 10 mg, or Zyrtec 10 mg PO daily at bedtime
+RTC as needed
+."
+
+
+571-->Done
+"Gastroenteritis
+         Notes: Usually a self-limited illness with an excellent prognosis. Most likely a viral etiology. Push fluids and keep hydrated, eat a bland diet, and rest. If no improvement or worsening in 5 days return for further workup.
+
+     Malaise
+         Lab:Influenza DNA AMP Probe
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+           	McCampbell,LaRonda 03/10/2022 08:59:33 AM CST >
+     Others
+         Notes: I spent 20 minutes reviewing the patient's chart, diagnostic tests, seeing the patient talking with the visiting nurse, and documenting in the record."
+
+575-->Done
+"Gastroenteritis
+         Notes: Usually a self-limited illness with an excellent prognosis. Most likely a viral etiology. Push fluids and keep hydrated, eat a bland diet, and rest. If no improvement or worsening in 5 days return for further workup.
+
+     Malaise
+         Lab:Influenza DNA AMP Probe
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+           	McCampbell,LaRonda 03/10/2022 08:59:33 AM CST >
+     Others
+         Notes: I spent 20 minutes reviewing the patient's chart, diagnostic tests, seeing the patient talking with the visiting nurse, and documenting in the record."
+
+577-->Done
+"Gastroenteritis
+         Notes: Usually a self-limited illness with an excellent prognosis. Most likely a viral etiology. Push fluids and keep hydrated, eat a bland diet, and rest. If no improvement or worsening in 5 days return for further workup.
+
+     Malaise
+         Lab:Influenza DNA AMP Probe
+                	Value	Reference Range
+                FLU A	neg		
+                FLU B	neg		
+           	McCampbell,LaRonda 03/10/2022 08:59:33 AM CST >
+     Others
+         Notes: I spent 20 minutes reviewing the patient's chart, diagnostic tests, seeing the patient talking with the visiting nurse, and documenting in the record."
+
+
+456-->Done
+"Acute upper respiratory infection, unspecified
+         Lab:Strep A DNA AMP Probe
+         Notes: No evidence of infection today.
+
+     Asthma exacerbation
+         Notes: Continue baseline Albuterol, symbicort, and Singulair. Can use Benedryl and OTC antihistamines prn though will need to stop these prior to allergy testing. Discussed significant concern with recurrent exacerbations and relationship to newly diagnosed diabetes with elevated glucoses. Will provide steroids today noting that his blood glucose levels will raise. Needs close monitoring and ED warnings were provided. Discussed benefits of sliding scale insulin for elevated sugars and to talk to his PCP about this option. Stressed importance of dietician consultation in a few weeks; may have some systemic/mental symptoms related to glucose dropping and related to ketosis from new diet. Also placing pulmonology referral considering recurrent exacerbations not controlled on PCP provided medication regimine. Monitor pulse ox to ensure over 90% and ED if lowers.
+         Referral To:Robert Walley    Pulmonary Diseases
+              Reason:recurrent asthma exacerbations uncontrolled on albuterol, symbicort and singulari requiring steroids 3 months in a row
+
+     Acute seasonal allergic rhinitis due to other allergen
+         Notes: I/R/B reviewed for allergy testing. Will need to be off antihistamines for testing. Referral placed to schedule after current exacerbation of asthma subsides.
+
+     Others
+
+ 	
+Start predniSONE Tablet, 10 MG, 1 tablet, Orally, twice a day, 5 days, 10 Tablet, Refills 0"
+
+
+5-->Done
+"COVID-19
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT
+                	Value	Reference Range
+                SARS CoV 2 RNA	neg		NEG - NEG
+           	Turpen,Angie 01/01/2022 01:12:46 PM CST > Done. AT
+     Others
+         Notes: Pt is clear to return to work Monday. Total time of 30 min spent in review of chart, face to face evaluation of pt, discussion of health history, symptoms, diagnostic testing, review of test results, treatment plan, and documentation after visit."
+
+393-->Done
+"Possible pregnancy
+         Lab:HCG URINE  Negative
+                	Value	Reference Range
+                HCG URINE	Negative		Negative -
+           	Posada,Jessica 01/28/2022 03:05:34 PM CST >
+     Tingling in extremities
+         Imaging:Echocardiogram
+         Imaging:X ray : Spines, cervical 2 views
+           	McBroom,Angela 01/28/2022 09:50:07 PM CST > Personal review prior to patient leaving clinic revealed mild osteophytosis inferior cervical spine. No fractures or significant narrowing.
+         Imaging:X ray : Spines, lumbar 2 views
+           	Posada,Jessica 01/28/2022 03:47:51 PM CST > 2 view done McBroom,Angela 01/28/2022 09:49:16 PM CST > Review prior to patient leaving clinic: Normal without fractures or significant narrowing.
+         Imaging:Chest X-ray PA and lateral
+           	Posada,Jessica 01/28/2022 03:36:11 PM CST > 2 view done McBroom,Angela 01/28/2022 09:51:23 PM CST > No significant acute cardiopulmonary findings.
+         Imaging:MRI : Brain with and without contrast
+         Imaging:EKG
+           	Posada,Jessica 01/28/2022 03:35:52 PM CST > done McBroom,Angela 01/28/2022 09:50:55 PM CST > Sinus arrythmia on two EKGs separated by 15 minutes while patient was in clinic.
+         Notes: FH positive for MS - will order MRI brain to rule out. Possible vitamin deficiency, anxiety, west nile, etc also possibilities and further consideration for labwork pending results of these tests.
+
+Discussed case with Dr. Gross who agreed with assessment and plan.
+         Referral To:Cardiology
+              Reason:sinus arrhythmia
+         Referral To:Arunava Ray    Cardiology
+              Reason:echocardiogram needed|sinus arrythmia on EKG|URGENT
+
+     Sinus arrhythmia
+         Imaging:Echocardiogram
+         Notes: Recommend cardiology referral and echo. If palpitations, chest pain, or progressive worsening symptoms go to ED.
+         Referral To:Cardiology
+              Reason:sinus arrhythmia
+         Referral To:Arunava Ray    Cardiology
+              Reason:echocardiogram needed|sinus arrythmia on EKG|URGENT"
+
+249
+"Injury of left foot, initial encounter
+         Imaging:X ray : Foot, left
+         Notes: 1. left foot 3 views Xray report indicates IMpression: There is no convincing evindence of acute fracture, dislocation, or osseous destructive process. Joint spaces appear grossly maintained and free of significant degenerative changes. No radiographically evident of soft tissue abnormality
+2. Patient instructed to rest the affected left foot, elevate, and use ice therapy for 15-20 minutes a least every 1-2 hours for 3 days, then thereafter, alternate between ice and heat therapy
+3. Patient instructed to continue taking th Ibuprofen for pain since it is helping with her pain and follow the insructions on the box
+4. Patient insructed to return to the clinic in 7 days if no improvement in symptoms for further evaluation and treatment. Patient verbalized understanding."
+
+152
+"Closed head injury
+         Imaging:CT Scan : Head, without contrast
+           	Nokes,Linda 11/01/2021 05:08:49 PM CDT > to be done at Preferred Imaging on 11/02/2021 @ 8:00am, patient to check in at 7:30am. Turnbow,Patricia 11/02/2021 10:02:40 AM CDT > no intracranial hemorrhage noted, microvascular changes noted
+         Notes: Advised spouse to observe for signs of brain bleed; decrease in loc, change in mentation, worsening headache, epistaxis. If any symptoms occur, will need to go straight to the ER.
+
+     Fall
+         Imaging:X ray : Hand, left
+           	Nokes,Linda 11/01/2021 04:41:21 PM CDT > 3 views of right hand done Nokes,Linda 11/01/2021 04:42:11 PM CDT > 3 views of left hand done not right
+         Imaging:X ray : Shoulder, right
+           	Nokes,Linda 11/01/2021 04:42:35 PM CDT > 2 views of right shoulder done
+         Imaging:CT Scan : Head, without contrast
+           	Nokes,Linda 11/01/2021 05:08:49 PM CDT > to be done at Preferred Imaging on 11/02/2021 @ 8:00am, patient to check in at 7:30am. Turnbow,Patricia 11/02/2021 10:02:40 AM CDT > no intracranial hemorrhage noted, microvascular changes noted
+         Imaging:CT Scan : Facial Bone
+           	Nokes,Linda 11/01/2021 05:10:12 PM CDT > to be done @ Preferred Imaging on 11/02/2021 @ 8:00am, check in @ 7:30am Turnbow,Patricia 11/02/2021 10:04:09 AM CDT > 1, soft tissue swelling in the right maxillary region with associated fractures of the anterior and posterior walls of the maxillary sinus. There is hemorrhagic opacification of the right maxillary sinus. 2. No other acute maxillofacial fractures present."
+
+220
+CEG Tdap : 0.5 mg (Route: Intramuscular) given by Nicki Strobel on Left Deltoid.
+
+276
+"CES INFLUENZA : .5 mg (Route: Intramuscular) given by Melissa Flores on Right Deltoid (Injury of right hand, initial encounter, Swelling of right thumb).
+      Immunization record has been reviewed and updated."
+
+327
+Covid-19 vac-Moderna (FOR DOCUMENTATION PURPOSES) : 0.5 mg (Dose No:1) (Route: Intramuscular) given by Nicki Strobel on Left Deltoid.
+
+390
+"CES MENINGITIS (Route: Intramuscular) given by Melissa Flores on Left Deltoid (Encounter for immunization).
+      CES TDAP VACCIN (Route: Intramuscular) given by Melissa Flores on Right Deltoid (Encounter for immunization).
+      Immunization record has been reviewed and updated
+
+IMMUNIZATION ROWS->206,209,220,276,327,331,343,367,386,388,390,394,399,410,424,
+
+327->IMMUTATION not working new code
+
+11
+"COVID
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start Ivermectin Tablet, 3 MG, take 4 tabs day 1 and 4 tabs day 3, Orally, as directed, 2 days, 4, Refills 0
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 5 ml as needed, Orally, every 6 hrs, 5 days, 100 ml, Refills 0
+         Referral To:Miscellaneous
+              Reason:84 years old
+
+     Others
+         Notes: Covid protocol sheet given to pt, Rapid covid test is positive. 
+Isolate for 5 days. Follow the covid handout for care at home. 
+Stay hydrated. If resp status worsens, come in here for reevaluation and neb treatment. 
+Or go to a free standing ER. Try to avoid the hospital ERs d/t overload of covid patients."
+
+32
+"COVID
+         Notes: Will return for follow up and labs as directed. Total time of 30 min spent in review of chart, face to face evaluation of pt, discussion of health history, symptoms, diagnostic testing, review of test results, treatment plan, and documentation after visit.
+         Referral To:Miscellaneous
+              Reason:see if eligable for infusion
+
+     Others
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+ 	
+Start Ivermectin Tablet, 3 MG, take 4 tabs day 1 and 4 tabs day 3, 8, as directed, 2 days, 8, Refills 0
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 to 6 hrs, 6 days, 200 ml, Refills 0
+         Notes: Covid protocol sheet given to pt, Rapid covid test is positive. Isolate for 5 days.
+Follow the covid handout for care at home. Stay hydrated. If resp status worsens, come in here for reevaluation and neb treatment. Or go to a free standing ER. Try to avoid the hospital ERs d/t overload of covid patients. Will send referral for monoclonal antibody infusion."
+
+531
+"Acute upper respiratory infection, unspecified
+
+ 	
+Start Azithromycin Tablet, 250 MG, 2 tablet on the first day, then 1 tablet daily for 4 days, Orally, Once a day, 5 day(s), 1 Dose Pack, Refills 0
+         Lab:Strep A DNA AMP Probe (Order Cancelled)
+         Notes: Discussed treatment for possible sinus infection such as steroid injection. Patient agreed. Educated on nasal saline solution, OTC medications, humidifier, and avoiding irritants. RTC if symptoms worsen or do not improve. Verbalized understanding.
+
+Patient was given an injection and instructed to wait for 15 minutes, however pt has had injection in past with no reaction so deferred to wait shot time.
+Patient identified using the 2 Point Patient Identifier twice prior to treatment. - WV MA.
+
+     Cough
+
+ 	
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml, Orally, every six hours as needed for cough, 10 days, 400 Milliliter, Refills 0"
+
+532
+"Sinusitis
+
+ 	
+Start Amoxicillin Tablet Chewable, 250 MG, 2 tablets, Orally, Twice a day, 10 days, 40 Tablet, Refills 0
+         Notes: Discussed treatment for possible sinus infection such as steroid injection. Patient refused. Educated on nasal saline solution, OTC medications, humidifier, and avoiding irritants. RTC if symptoms worsen or do not improve. Verbalized understanding.
+
+     Acute pharyngitis, unspecified
+         Lab:Strep A DNA AMP Probe (Order Cancelled)
+
+     Body aches
+         Lab:Influenza DNA AMP Probe  Negative
+                	Value	Reference Range
+                FLU A	NEG		
+                FLU B	NEG		
+           	Flores,Melissa 03/30/2022 06:00:49 PM CDT >"
+
+
+34
+"Acute URI
+
+         
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 1 tab days 2 - 5, Orally, Once a day, 5 day(s), 1 Pack, Refills 1
+     Fatigue, unspecified type
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT
+                        Value        Reference Range
+                SARS CoV 2 RNA        neg                NEG - NEG
+                   Turpen,Angie 01/01/2022 02:11:37 PM CST > Done. AT Turpen,Angie 01/01/2022 02:31:42 PM CST > Scanned
+     Others
+         Notes: fluids, rest, supportive measures for fever/symptom relief."
+
+
+81
+"COVID-19
+
+         
+Start Zithromax Z-Pak Tablet, 250 MG, 2 tablets on the first day, then 1 tablet daily for 4 days, Orally, as directed, 5 day(s), 1 Dose Pack, Refills 0
+         
+Start Ivermectin Tablet, 3 MG, as directed, Orally, 7 tabs today, then repeat in 3 days, 2 days, 14 Tablet, Refills 0
+         Clinical Notes: -30 minutes spent wtih patient review chart/medication/history/lab review/patient education/answer questions.
+
+     Fever
+
+         
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 hrs, 5 days, 300 ml, Refills 0
+         Lab:Strep A DNA AMP Probe  Negative
+                        Value        Reference Range
+                STREP A        Negative                
+                   Nava,Bianca 01/14/2022 11:41:34 AM CST > Done..bn
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Positive
+                        Value        Reference Range
+                SARS CoV 2 RNA        Positive                NEG - NEG
+                   Nava,Bianca 01/14/2022 11:38:14 AM CST > Done..bn
+         Lab:Coronavirus (COVID-19), NAA  Abnormal
+                        Value        Reference Range
+                SARS-CoV-2, NAA        Detected        A        Not Detected -
+                   Flores,Martha 01/19/2022 01:27:17 PM CST > positive covid send out, continue present tx, check and see how he is doing Flores,Martha 01/19/2022 01:26:57 PM CST > Nava,Bianca 01/19/2022 02:21:22 PM CST > Pt informed about results..bn
+     Others
+         Notes: -covid education given
+-covid isolation as per CDC
+-ibuprofen/tylenol prn pain/fever
+-monitor resp distress, go to the ER if symptoms worsen."
+
+32
+"Lab test positive for detection of COVID-19 virus
+         Notes: Information given to patient regarding CDC guidelines for self quarantine at home for 5 day minimum, then wear a mask around people for the remaining 5 days. advised to include his others who live in the same home and have had close contact with the patient since the symptoms started.Advised wash hands frequently for a least 20 seconds and/or use hand sanitizer frequently. Drink plenty of fluids, get plenty of rest, take vitamin C, Vitamin D, and Zinc. Call 911 or seek immediate care if you become short of breath. CDC Covid-19 handout given to patient. A review of symptoms of covid is given, including but not limited to: fatigue, fever, non-productive cough, loss of sense of smell, GI issues, discoloration of toes. ER precautions given for any severe symptoms.
+
+     Sore throat
+
+ 	
+Start Magic Mouthwash Benadryl Elixir/Maalox/Xylocaine Viscous, 1:1:1, 1 teaspoon, gargle and swallow, every 6-8 hours as needed, 5 days, 100 Milliliter, Refills 0
+         Notes: Tylenol/motrin as needed.
+
+     Others
+         Notes: I spent 20 minutes reviewing the patient's chart, diagnostic tests, seeing the patient talking with the visiting nurse, and documenting in the record."
+
+23
+"COVID-19
+         Imaging:X ray : Chest (PA lateral)
+                   Turpen,Angie 01/08/2022 11:28:38 AM CST > Done. 2 Views. AT Turpen,Angie 01/08/2022 11:39:11 AM CST > Report scanned
+         Notes: 1)needs fresh air:open windown, fans for aeration or spending times out doors if able. Do not wear mask at home unless in the presence of others (2)zinc lozenges, 5 x day or zinc sulfate, 220 mg, once or twice a day. Vitamin D, 1000 mg, BID. Vitamin D, 1000 units, once or twice a day. (3)aspirin 81 mg once a day (4)pulse oximeter to measure ""sats"" as done in clinic. May be purchased at most pharmacies. Call if level is <90%. (5)call 911 or go to the ER if you become very SOB or other symptoms worsen dramatically (6)take meds as prescribed.
+
+     Pneumonia due to Coronavirus disease 2019
+
+         
+Start Nebulizer/Tubing/Mouthpiece Kit, -, as directed, as directed, 14 days, 1, Refills 0
+         
+Start Azithromycin Tablet, 250 MG, 2 tabs day 1 then 1 tab days 2-7, Orally, Once a day, 7 days, 8, Refills 0
+         
+Start predniSONE Tablet, 10 MG, 1 tablet, Orally, twice a day (bid), 5 days, 10, Refills 0
+         
+Start Albuterol Sulfate Nebulization Solution, (2.5 MG/3ML) 0.083%, 3 ml as needed, Inhalation, Q 4-6 hrs prn cough/ wheezing/ SOB, 14 days, 60 Nebule, Refills 1
+         
+Start Budesonide Suspension, 0.5 MG/2ML, 2 ml, Inhalation, twice a day (bid) as needed (prn), 10 days, 20 Nebule, Refills 0
+         Notes: Taught to drink plenty of fluid and get plenty of rest. Educated regarding new medications & possible side effects. Refrain from physical activity until symptoms improve. Take Tylenol/Advil for fevers and pains. Taught S & S that warrent immediate medical attention such as SOB, brown/dark yellow sputum, or worsening os symptoms."
+
+
+27(Serial no:25)
+"COVID-19
+         Notes: 1)needs fresh air:open windown, fans for aeration or spending times out doors if able. Do not wear mask at home unless in the presence of others (2)zinc lozenges, 5 x day or zinc sulfate, 220 mg, once or twice a day. Vitamin D, 1000 mg, BID. Vitamin D, 1000 units, once or twice a day. (3)aspirin 81 mg once a day (4)pulse oximeter to measure ""sats"" as done in clinic. May be purchased at most pharmacies. Call if level is <90%. (5)call 911 or go to the ER if you become very SOB or other symptoms worsen dramatically (6)take meds as prescribed.
+         Clinical Notes: Pt declined any type of tx."
+
+
+
+
+
+
+
+

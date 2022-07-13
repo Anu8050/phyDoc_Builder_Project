@@ -1,0 +1,71 @@
+1.Document templates
+Create:
+CREATE TABLE IF NOT EXISTS public."phyDoc_app_document_templates"
+(
+    id integer NOT NULL,
+    name character varying(80) COLLATE pg_catalog."default" NOT NULL,
+    "Document_template_path" text COLLATE pg_catalog."default" NOT NULL,
+    CONSTRAINT "phyDoc_app_document_templates_pkey" PRIMARY KEY (id)
+)
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public."phyDoc_app_document_templates"
+    OWNER to postgres;
+
+Delete:
+DELETE FROM public."phyDoc_app_document_templates"
+	WHERE <condition>;
+
+Insert
+INSERT INTO public."phyDoc_app_document_templates"(
+	id, name, "Document_template_path")
+	VALUES (?, ?, ?);
+
+Select:
+SELECT id, name, "Document_template_path"
+	FROM public."phyDoc_app_document_templates";
+
+Update:
+UPDATE public."phyDoc_app_document_templates"
+	SET id=?, name=?, "Document_template_path"=?
+	WHERE <condition>;
+
+
+
+2.Document Details
+create:
+CREATE TABLE IF NOT EXISTS public."phyDoc_app_document_details"
+(
+    id integer NOT NULL,
+    field_name character varying(80) COLLATE pg_catalog."default" NOT NULL,
+    field_type character varying(80) COLLATE pg_catalog."default" NOT NULL,
+    "isRequired" boolean NOT NULL,
+    templateid_id integer NOT NULL,
+    CONSTRAINT "phyDoc_app_document_details_pkey" PRIMARY KEY (id),
+    CONSTRAINT "phyDoc_app_document__templateid_id_6efc5f0d_fk_phyDoc_ap" FOREIGN KEY (templateid_id)
+        REFERENCES public."phyDoc_app_document_templates" (id) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+        DEFERRABLE INITIALLY DEFERRED
+)
+
+Delete:
+DELETE FROM public."phyDoc_app_document_details"
+	WHERE <condition>;
+
+Insert
+INSERT INTO public."phyDoc_app_document_details"(
+	id, field_name, field_type, "isRequired", templateid_id)
+	VALUES (?, ?, ?, ?, ?);
+
+Select:
+SELECT id, field_name, field_type, "isRequired", templateid_id
+	FROM public."phyDoc_app_document_details";
+
+Update:
+UPDATE public."phyDoc_app_document_details"
+	SET id=?, field_name=?, field_type=?, "isRequired"=?, templateid_id=?
+	WHERE <condition>;
+
+
+
