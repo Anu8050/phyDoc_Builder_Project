@@ -16,11 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from . import views
+# from phyDoc_app.views import IndexView
 
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
     path('apiend',views.insertTemplate),
-    path('ddapiend/', views.id_binding, name='id_binding'),
+    path('ddapiend/', views.insertDD),#id_binding
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
+  
 ]

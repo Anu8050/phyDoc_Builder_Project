@@ -8,6 +8,7 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
+from django.views import generic
 
 #generating a pdf file
 from django.http import FileResponse
@@ -28,18 +29,20 @@ def insertTemplate(request):
         return render(request,'insert.html')      
     
 def insertDD(request):
+    results=Document_templates.objects.all
     if request.method=="POST":
         id=request.POST.get('id')  
-        templateid =request.POST.get('templateid')
+        template_name =request.POST.get('template_name')
         field_name =request.POST.get('field_name') 
         field_type =request.POST.get('field_type')   
         isRequired =request.POST.get('isRequired') 
-        data={'id':id, 'templateid':templateid, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired}
+        data={'id':id, 'template_name':template_name, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired,}
         headers={'Content-Type': 'application/json'}
         read= requests.post('http://127.0.0.1:8000/Document_details/CreateDD',json=data,headers=headers)
-        return render(request,'insertdd.html')
+        
+        return render(request,'insertdd.html',{"bindingid":results})
     else:
-        return render(request,'insertdd.html') 
+        return render(request,'insertdd.html',{"bindingid":results}) 
 
   
 #pdf
@@ -71,9 +74,10 @@ def venue_pdf(request):
 
     return FileResponse(buf,as_attachment=True,filename='generatedpdf.pdf')
 
-def id_binding(request):
-    results=Document_templates.objects.all
-    return render(request, "insertdd.html",{"bindingid":results})
+# def id_binding(request):
+#     results=Document_templates.objects.all
+#     return render(request, "insertdd.html",{"bindingid":results})
+
 
    
 
