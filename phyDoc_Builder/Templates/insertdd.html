@@ -9,16 +9,13 @@
         <form method="POST">
             {% csrf_token %}
             <table border="1">
+                
                 <tr>
-                    <td>document details cities</td>
-                    <td><input type="text" placeholder="id.." name="id"></td>
-                </tr>
-                <tr>
-                    <td>document template id</td>
+                    <td>document template</td>
                     <td>
                         <select name="name" class="form-control">
                             {% for results in bindingid %}
-                                    <option value="{{ results.id}}">{{ results.id}}</option>
+                                    <option value="{{ results.id}}">{{ results.name}} </option>
                             {% endfor %}
                         </select>
 
@@ -34,8 +31,12 @@
                     <td><input type="text" placeholder="field type'..."name="field_type"></td>
                 </tr>
                 <tr>
-                    <td>document details isRequired.</td>
-                    <td><input type="text" placeholder="isRequired.."name="isRequired"></td>
+                    <td>document details isRequired?</td>    
+                    <td><input type="radio" id="Yes" name="isRequired" value="Yes">
+                          <label for="Yes">Yes</label>
+                        <input type="radio" id="No" name="isRequired" value="No">
+                              <label for="No">No</label></td>
+                    
                 </tr>
             </table>
             <input type="submit" value="insert"/>
