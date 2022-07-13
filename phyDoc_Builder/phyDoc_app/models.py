@@ -14,7 +14,7 @@ class Document_templates(models.Model):
         return str(self.name)
     
 class Document_details(models.Model):
-    id = models.IntegerField(primary_key=True)
+    id = models.AutoField(primary_key=True)
     template_name = models.ForeignKey(Document_templates,on_delete=models.SET_NULL,null=True)
     field_name = models.CharField(max_length=80)
     field_type = models.CharField(max_length=80)
