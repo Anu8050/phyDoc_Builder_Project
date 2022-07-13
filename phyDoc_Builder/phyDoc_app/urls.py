@@ -1,5 +1,5 @@
 from django.urls import path
-from .api import Document_templatesCreateApi, Document_templatesListApi, Document_templatesDeleteApi, Document_templatesUpdateApi, Document_detailsCreateApi, Document_detailsListApi, Document_detailsUpdateApi, Document_detailsDeleteApi
+from .api import  Document_templatesCreateApi, Document_templatesListApi, Document_templatesDeleteApi, Document_templatesUpdateApi, Document_detailsCreateApi, Document_detailsListApi, Document_detailsUpdateApi, Document_detailsDeleteApi
 from . import views
 
 urlpatterns = [
