@@ -31,12 +31,11 @@ def insertTemplate(request):
 def insertDD(request):
     results=Document_templates.objects.all
     if request.method=="POST":
-        id=request.POST.get('id')  
         template_name =request.POST.get('template_name')
         field_name =request.POST.get('field_name') 
         field_type =request.POST.get('field_type')   
         isRequired =request.POST.get('isRequired') 
-        data={'id':id, 'template_name':template_name, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired,}
+        data={'template_name':template_name, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired,}
         headers={'Content-Type': 'application/json'}
         read= requests.post('http://127.0.0.1:8000/Document_details/CreateDD',json=data,headers=headers)
         
