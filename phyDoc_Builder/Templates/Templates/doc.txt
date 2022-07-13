@@ -1,0 +1,183 @@
+15
+"Close exposure to COVID-19 virus
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                 Value Reference Range
+                SARS CoV 2 RNA negative  NEG - NEG
+            Baucom, CMA,Bailee 09/01/2021 06:14:53 PM CDT >
+         Notes: A review of symptoms of covis is given, including but not limited to: fatigue, fever, non-productive cough, loss of sense of smell, GI issues, discoloration of toes.
+Information given to patient regarding CDC guidelines for self quarantine at home for 14 days. advised to include others who live in the same home and have had close contact with the patient since the symptoms started.Advised wash hands frequently for a least 20 seconds and/or use hand sanitizer frequently. Drink plenty of fluids, get plenty of rest, take vitamin C, Vitamin D, and Zinc. Testing for the Covid-19 will result in 2-7 days. Call 911 or seek immediate care if you become short of breath. CDC Covid-19 handout given to patient.
+If services are needed to aid in home quarentine (home health), please let us know
+
+Time spent on covid safe practices and testing 35mins."
+
+
+
+
+
+
+405
+
+"Insect bite (nonvenomous) of right ear, initial encounter
+         Notes: Patient advised to do a saline rise of ears
+Discussed with patient saline rinse with patient in case she feels she has another bug in her ear , other education was 30mins visit."
+
+
+
+
+
+54
+"COVID-19
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Positive
+                 Value Reference Range
+                SARS CoV 2 RNA Positive  NEG - NEG
+            Nava,Bianca 09/03/2021 04:22:58 PM CDT > Done..bn
+     Others
+         Notes:
+- clinically doing well, he has had no symptoms in over 5 days
+-continues to be positive, clinically cleared as per CDC guidelines, wear mask
+-30 minutes spent with pt. reviewing chart, patient education, and reviewing labs & history."
+
+
+90
+"Lab test negative for COVID-19 virus
+         Notes: A review of symptoms of covis is given, including but not limited to: fatigue, fever, non-productive cough, loss of sense of smell, GI issues, discoloration of toes.
+Information given to patient regarding CDC guidelines for self quarantine at home for 14 days. advised to include others who live in the same home and have had close contact with the patient since the symptoms started.Advised wash hands frequently for a least 20 seconds and/or use hand sanitizer frequently. Drink plenty of fluids, get plenty of rest, take vitamin C, Vitamin D, and Zinc. Testing for the Covid-19 will result in 2-7 days. Call 911 or seek immediate care if you become short of breath. CDC Covid-19 handout given to patient.
+If services are needed to aid in home quarentine (home health), please let us know
+
+Patient education given 30mins of time spent with patient."
+
+
+
+96
+"Close exposure to COVID-19 virus
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  negative
+                 Value Reference Range
+                SARS CoV 2 RNA negative  NEG - NEG
+            Macias, MA,Dalia 09/07/2021 02:12:52 PM CDT >
+         Notes: A review of symptoms of covis is given, including but not limited to: fatigue, fever, non-productive cough, loss of sense of smell, GI issues, discoloration of toes.
+Information given to patient regarding CDC guidelines for self quarantine at home for 14 days. advised to include others who live in the same home and have had close contact with the patient since the symptoms started.Advised wash hands frequently for a least 20 seconds and/or use hand sanitizer frequently. Drink plenty of fluids, get plenty of rest, take vitamin C, Vitamin D, and Zinc. Testing for the Covid-19 will result in 2-7 days. Call 911 or seek immediate care if you become short of breath. CDC Covid-19 handout given to patient.
+If services are needed to aid in home quarentine (home health), please let us know
+
+30 mins spent with patient on covid education."
+
+
+
+101
+"COVID-19 ruled out
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  negative
+                 Value Reference Range
+                SARS CoV 2 RNA negative  NEG - NEG
+            Macias, MA,Dalia 09/07/2021 07:19:19 PM CDT >
+         Notes: A review of symptoms of covis is given, including but not limited to: fatigue, fever, non-productive cough, loss of sense of smell, GI issues, discoloration of toes.
+Information given to patient regarding CDC guidelines for self quarantine at home for 14 days. advised to include others who live in the same home and have had close contact with the patient since the symptoms started.Advised wash hands frequently for a least 20 seconds and/or use hand sanitizer frequently. Drink plenty of fluids, get plenty of rest, take vitamin C, Vitamin D, and Zinc. Testing for the Covid-19 will result in 2-7 days. Call 911 or seek immediate care if you become short of breath. CDC Covid-19 handout given to patient.
+If services are needed to aid in home quarentine (home health), please let us know
+
+35-mins spent with patient on covid education."
+
+
+
+
+105
+"Close exposure to 2019-nCoV
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                 Value Reference Range
+                SARS CoV 2 RNA Negative  NEG - NEG
+            McCampbell,Dorthy 09/08/2021 09:51:14 AM CDT > done.dm
+         Notes:
+Return to work per CDC guidelines.
+Continue to monitor for symptoms
+RTC if symptoms worsen or prn new concerns.
+JL SFNP
+
+Clinical note: Spent 30 minutes with patient reviewing medication, chart, diagnosis, and education."
+
+
+
+120
+"Contact with and (suspected) exposure to covid-19
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Positive
+                 Value Reference Range
+                SARS CoV 2 RNA POSITIVE  NEG - NEG
+            Salinas,Ruby 09/09/2021 04:08:56 PM CDT >
+         Notes:
+Clinically stable
+Return to work per CDC guidelines.
+RTC prn new concerns.
+JL SFNP
+
+
+
+Clinical note: Spent 30 minutes with the patient reveiwed symptoms, diagnosis, education, medication, and prevention.."
+
+
+106
+"Close exposure to 2019-nCoV
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                 Value Reference Range
+                SARS CoV 2 RNA Negative  NEG - NEG
+            McCampbell,Dorthy 09/08/2021 09:21:02 AM CDT > done.dm
+         Notes:
+Continue to monitor for symptoms.
+Quarantine with wife per CDC guidelines.
+RTC if new symptoms occur or prn new concerns.
+JL SFNP
+
+Clinical note: Spent 30 minutes with patient reviewing medication, chart, diagnosis, and education."
+
+
+132
+"Contact with and (suspected) exposure to covid-19
+         Lab:SOFIA 2 (Inf A/B & COVID)  Negative
+                 Value Reference Range
+                FLU A negative  
+                FLU B negative  
+                COVID negative  
+            Strobel,Nicki 09/10/2021 08:36:34 AM CDT > done, reported, ns
+     Encounter for screening for COVID-19
+         Notes: -mucinex prn congestion
+-30 minutes spent with pt. reviewing chart, patient education, and reviewing labs & history.
+
+     Others
+         Notes:
+           -use ibuprofen as per package dosing as needed for fever/pain
+           -follow up 2-3 days , sooner if condition worsens,
+           ."
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Contact with and (suspected) exposure to covid-19
+         Lab:SOFIA 2 (Inf A/B & COVID)
+                 Value Reference Range
+                FLU A negative  
+                FLU B Negative  
+                COVID Negative  
+            Nava,Bianca 09/02/2021 06:19:24 PM CDT > Done..bn
+         Notes: Monitor for symtoms resp. distress
+wife positive, covid isolation as per CDC
+-covid education given, consider covid retest in 3 days if symptoms worsen
+Sleep separatley and avoid contact with spouse.
+RTC if symptoms occur or prn new concerns
+.
+         Clinical Notes: 30 minutes spent with patient and spouse review chart, covid education, reviewing medication, and anserwing question."
+
+
+
+
+
+
+
+
+
+
+
+

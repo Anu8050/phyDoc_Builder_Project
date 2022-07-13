@@ -1,0 +1,210 @@
+43
+"Close exposure to COVID-19 virus
+         Lab:Coronavirus (COVID-19), NAA
+                 Value Reference Range
+                SARS-CoV-2, NAA Not Detected  Not Detected -
+         Notes: PCR covid test sent out
+COVID swab collected results are currently pending, advised to start the strict quarantine process until test results come back. Advised to start over the counter medication to treat symptoms as needed, Tylenol for headache, body aches. antihistamine or decongestant of choice to treat congestion. Vitamin C, Vitamin D, and zinc to support immune system."
+
+
+32
+"Contact with and (suspected) exposure to covid-19
+         Lab:SOFIA 2 (Inf A/B & COVID)
+                 Value Reference Range
+                FLU A negative  
+                FLU B Negative  
+                COVID Negative  
+            Nava,Bianca 09/02/2021 06:19:24 PM CDT > Done..bn
+         Notes: Monitor for symtoms resp. distress
+wife positive, covid isolation as per CDC
+-covid education given, consider covid retest in 3 days if symptoms worsen
+Sleep separatley and avoid contact with spouse.
+RTC if symptoms occur or prn new concerns
+.
+         Clinical Notes: 30 minutes spent with patient and spouse review chart, covid education, reviewing medication, and anserwing question."
+
+
+
+
+44"Encounter for laboratory testing for COVID-19 virus
+         Lab:SOFIA 2 (Inf A/B & COVID)  Negative
+                 Value Reference Range
+                FLU A Neg  
+                FLU B Neg  
+                COVID Neg  
+     Others
+         Notes: No further treatment needed. COVID-19 test result is negative. Patient is fully vaccinated for COVID-19, and does not have any current signs/symptoms of infection."
+
+459
+"Acute pharyngitis, unspecified etiology
+         Notes: Patient was given an injection and instructed to wait for 15 minutes, then left without a reaction.
+Patient identified using the 2 Point Patient Identifier twice prior to treatment. mflores ma.
+
+     Acute non-recurrent pansinusitis
+
+ 	
+Start Amoxicillin Tablet, 875 MG, 1 tablet, Orally, twice a day (bid), 10 day(s), 20 Tablet, Refills 0
+ 	
+Start Pseudoeph-Bromphen-DM Syrup, 30-2-10 MG/5ML, 10 ml, Orally, Every 4 hours PRN, 10 days, 120 Milliliter, Refills 1
+     Others
+         Notes: I spent 30 minutes for reviewing the intake nurses documentation and vital signs on the patient, assessing and evaluating the patient, prescribing medication/treatment, and documenting in the patient's chart.
+         Clinical Notes: Patient referred to United Allergy for testing and further treatment."
+
+
+158
+"Displaced oblique fracture of shaft of right fibula, initial encounter for closed fracture
+         Notes: Patient placed in walking boot to the left foot.
+2. referral of left ankle to see ortho
+3. Continue to use crutches no weight bearing.
+4. follow up in 3 weeks.
+
+     Sprain of left ankle, unspecified ligament, initial encounter
+         Imaging:X ray : Ankle, left
+            Byington,Patricia 09/08/2021 04:23:53 PM CDT > left ankle 3 view"
+
+
+179
+"Injury of left shoulder and upper arm, initial encounter
+
+  
+Start Robaxin Tablet, 500 MG, 1 tablet, Orally, every 4 hrs prn, 7 days, 42 Tablet, Refills 0
+         Imaging:X ray : Shoulder, left
+            Byington,Patricia 09/24/2021 04:50:05 PM CDT > LEFT SHOULDER 2 VIEW
+         Notes: 1. Left shoulder Xray report indicates Findings: No acute fracture, dislocation, or acromioclavicular separation is seen, with acromioclavicular arthritic change. There is no Hill-Sachs defect or injury. Impression: No fracture identified
+2 . 80mg Kenelog injection and 60mg Toradol injection IM administer after risks and benefits were explained to patient and patient agrees to take the medication
+3. left shoulder MRI has been requested on patient's behalf
+4. patient refuse left shoulder immobilizer
+5. patient instructed to call the clinic for after MRI is complete for follow up appointment
+6. ER precautions given. Patient verbalized understanding
+."
+
+
+
+247
+"Lumbago with sciatica, left side
+         Imaging:X ray : LS Spine
+            Posada,Jessica 09/16/2021 12:34:42 PM CDT > 3 view done
+         Imaging:MRI : Lumbar without contrast
+         Imaging:MRI : Pelvis without Contrast
+            Medrano,Imelda 09/17/2021 01:21:27 PM CDT > MRI Pelvis/ Sacrum, Attention to Coccyx w/o Contrast
+         Imaging:MRI : Thoracic without Contrast
+         Imaging:MRI : Sacrum
+            Medrano,Imelda 09/17/2021 01:22:53 PM CDT > MRI Sacrum w/o Contrast
+         Referral To:Center Advanced Imaging    Diagnostic Radiology
+              Reason:MRI of the spine (thoracic, lumbar, sacrum, coccyx) |Severe lumbar dextroscoliosis|Degenerative spondylosis with no acute fracture or subluxation
+         Referral To:Neurosurgery
+              Reason:Severe lumbar dextroscoliosis|Degenerative spondylosis with no acute fracture or subluxation
+
+     Lumbago with sciatica, right side
+         Imaging:MRI : Lumbar without contrast
+         Imaging:MRI : Pelvis without Contrast
+            Medrano,Imelda 09/17/2021 01:21:27 PM CDT > MRI Pelvis/ Sacrum, Attention to Coccyx w/o Contrast
+         Imaging:MRI : Thoracic without Contrast
+         Imaging:MRI : Sacrum
+            Medrano,Imelda 09/17/2021 01:22:53 PM CDT > MRI Sacrum w/o Contrast
+         Referral To:Center Advanced Imaging    Diagnostic Radiology
+              Reason:MRI of the spine (thoracic, lumbar, sacrum, coccyx) |Severe lumbar dextroscoliosis|Degenerative spondylosis with no acute fracture or subluxation
+
+     Degenerative spondylolisthesis
+         Imaging:MRI : Thoracic without Contrast
+         Imaging:MRI : Pelvis without Contrast
+            Medrano,Imelda 09/17/2021 01:21:27 PM CDT > MRI Pelvis/ Sacrum, Attention to Coccyx w/o Contrast
+         Imaging:MRI : Sacrum
+            Medrano,Imelda 09/17/2021 01:22:53 PM CDT > MRI Sacrum w/o Contrast
+         Imaging:MRI : Lumbar without contrast
+         Referral To:Center Advanced Imaging    Diagnostic Radiology
+              Reason:MRI of the spine (thoracic, lumbar, sacrum, coccyx) |Severe lumbar dextroscoliosis|Degenerative spondylosis with no acute fracture or subluxation
+
+     Dextroscoliosis
+         Imaging:MRI : Thoracic without Contrast
+         Imaging:MRI : Pelvis without Contrast
+            Medrano,Imelda 09/17/2021 01:21:27 PM CDT > MRI Pelvis/ Sacrum, Attention to Coccyx w/o Contrast
+         Imaging:MRI : Sacrum
+            Medrano,Imelda 09/17/2021 01:22:53 PM CDT > MRI Sacrum w/o Contrast
+         Imaging:MRI : Lumbar without contrast
+         Referral To:Center Advanced Imaging    Diagnostic Radiology
+              Reason:MRI of the spine (thoracic, lumbar, sacrum, coccyx) |Severe lumbar dextroscoliosis|Degenerative spondylosis with no acute fracture or subluxation
+
+     Others
+         Notes: Patient states that she has Tylenol 3 at home that she will take for pain. The pain medication was prescribed by her PCP.
+         Clinical Notes: 4 view lumbar spine x-ray revealed severe lumbar dextroscoliosis, degenerative spondylosis with no acute fracture or subluxation."
+
+165
+CES TDAP VACCIN : 0.5 mL (Route: Intramuscular) given by Whitney Viator on Right Deltoid (Laceration without foreign body of unspecified finger without damage to nail, initial encounter, Local infection of the skin and subcutaneous tissue, unspecified, Osteoarthritis of left knee, unspecified osteoarthritis type).
+
+167
+"CES TDAP VACCIN : 0.5 mg (Route: Intramuscular) given by Yvette Gutierrez on Left Deltoid (Encounter for immunization).
+      Immunization record has been reviewed and updated."
+189
+Tdap > 6yrs of age (not covd by Mcare) : 0.5 mL (Route: Intramuscular) given by Mirna Mendez on Right Deltoid.
+
+IMMUNIZATION ROW->165,167,189,267,407,
+
+2
+"COVID
+
+  
+Start Ivermectin Tablet, 3 MG, take 8 tabs day 1 and 8 tabs day 3, Orally, as directed, 2 days, 16, Refills 0
+  
+Start Doxycycline Hyclate Capsule, 100 MG, 1 capsule, Orally, Twice a day, 10 day(s), 20 Capsule, Refills 0
+  
+Start Bromfed DM Syrup, 30-2-10 MG/5ML, 10 ml as needed, Orally, every 4 to 6 hrs, 6 days, 200 ml, Refills 0
+  
+Start Budesonide Suspension, 0.25 MG/2ML, 2 ml, Inhalation, Twice a day, 5 days, 20 ml, Refills 0
+         Imaging:X ray : Chest (PA lateral)
+            Nokes,Linda 09/01/2021 08:58:43 AM CDT > 2 view chest xray done Turnbow,Patricia 09/01/2021 01:12:44 PM CDT > atelectasis right mid lung base
+         Notes: referral sent for monoclonal antibodies;
+He has a nebulizer at home with albuterol and atrovent, Rapid covid test is positive. Isolate for 10 days, need 72 consecutive hours symptom free after 7 days to be considered non contagious. Follow the covid handout for care at home. Stay hydrated. If resp status worsens, come in here for reevaluation and neb treatment. Or go to a free standing ER. Try to avoid the hospital ERs d/t overload of covid patients.
+         Referral To:Miscellaneous
+              Reason:monoclonal antibodies
+
+     Others
+         Notes: Covid protocol sheet given to pt, - Started pt on 4l of O2 @ 8:38 AM. KH."
+
+153
+"Injury of left foot, initial encounter
+         Notes: Walking boot appled to patients left lower extremity. Education provided to patient reguarding propper donning and doffing of medical equiptment. Teaching reguarding circulation checking of affected limb and when to leave equiptment off for periods of rest provided. Patient verbalized understanding. Patient denies concerns reguarding compression or use of Walking Boot at time of visit. L Cacy Becker LVN.
+         Referral To:James Parker    Orthopedic Surgery
+              Reason:Left foot, fifth metatarsal oblique fracture, displaced
+
+     Left foot pain
+
+  
+Start Acetaminophen-Codeine #3 Tablet, 300-30 MG, 1 tablet as needed, Orally, every 6 hrs, 10 days, 20 Tablet, Refills 0
+  
+Start Naproxen Tablet, 250 MG, 1 tablet with food or milk, Orally, Twice a day PRN, 10 days, 20 Tablet, Refills 0
+         Imaging:X ray : Foot, left
+            Posada,Jessica 09/04/2021 01:06:13 PM CDT > 3 view done
+     Others
+         Notes: 3 view left foot x-ray revealed an oblique, displaced fracture of the fifth metatarsal."
+158
+"Displaced oblique fracture of shaft of right fibula, initial encounter for closed fracture
+         Notes: Patient placed in walking boot to the left foot.
+2. referral of left ankle to see ortho
+3. Continue to use crutches no weight bearing.
+4. follow up in 3 weeks.
+
+     Sprain of left ankle, unspecified ligament, initial encounter
+         Imaging:X ray : Ankle, left
+            Byington,Patricia 09/08/2021 04:23:53 PM CDT > left ankle 3 view"
+160
+"Strain of muscle, fascia and tendon of lower back, initial encounter
+
+  
+Start Naproxen Tablet, 375 MG, 1 tablet with food or milk as needed, Orally, every 12 hrs, 10 days, 20 Tablet, Refills 0
+  
+Start Methocarbamol Tablet, 500 MG, 1 tablet, Orally, every 4 hrs prn back/ muscle pain, 10 days, 40, Refills 0
+         Notes: F/U 1 week if not improving for possible referral to PT.
+         Clinical Notes: Unable to perform complete exam because mother needed to leave. Stated she had already waited 11/2 hrs."
+
+580
+"Difficulty attaining erection
+         Notes: Referral to urology has been requested on patient's beahlf."
+
+41
+"Close exposure to COVID-19 virus
+         Lab:Coronavirus (COVID-19), NAA
+                 Value Reference Range
+                SARS-CoV-2, NAA Not Detected  Not Detected -
+         Notes: PCR covid test sent out
+COVID swab collected results are currently pending, advised to start the strict quarantine process until test results come back. Advised to start over the counter medication to treat symptoms as needed, Tylenol for headache, body aches. antihistamine or decongestant of choice to treat congestion. Vitamin C, Vitamin D, and zinc to support immune system."

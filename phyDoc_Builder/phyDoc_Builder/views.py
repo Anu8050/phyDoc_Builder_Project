@@ -8,6 +8,9 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
+from rest_framework.views import APIView
+from rest_framework.parsers import MultiPartParser, FormParser
+from django.core.files.storage import FileSystemStorage
 
 #generating a pdf file
 from django.http import FileResponse
@@ -69,6 +72,8 @@ def venue_pdf(request):
     buf.seek(0)  
 
     return FileResponse(buf,as_attachment=True,filename='venue1.pdf')
+
+
 
 
 

@@ -81,7 +81,7 @@ DATABASES = {
          "ENGINE": os.environ.get("SQL_ENGINE", "django.db.backends.postgresql"),
             "NAME": os.environ.get("SQL_DATABASE", "phyDoc_Builder_DB"),
             "USER": os.environ.get("SQL_USER", "postgres"),
-            "PASSWORD": os.environ.get("SQL_PASSWORD", "1234"),
+            "PASSWORD": os.environ.get("SQL_PASSWORD", "12345"),
             "HOST": os.environ.get("SQL_HOST", "localhost"),
             "PORT": os.environ.get("SQL_PORT", "5432"),
         }
@@ -123,6 +123,19 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = 'staticfiles'
+STATIC_URL = '/static/'
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles')
+
+STATICFILES_DIR={
+    os.path.join(BASE_DIR,'Templates')
+}
+
+
+MEDIA_ROOT = os.path.join(BASE_DIR,'Templates')
+MEDIA_URL = '/media/'
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
