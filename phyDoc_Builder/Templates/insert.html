@@ -3,10 +3,12 @@
     <title>Create the document template</title>
 </head>
 <body>
+    {% load static %}
+    {% block content %}
     <center>
         <h1>Inserting for document template</h1>
         <h2>using django restframework</h2>
-        <form method="POST">
+        <form method="POST" enctype="multipart/form-data">
             {% csrf_token %}
             <table border="1">
                 <tr>
@@ -21,6 +23,13 @@
             <input type="submit" value="insert"/>
         </form>
     </center>
-    {% block content %} {% endblock %}
+
+    {% comment %} {% if uploaded_file_url %}
+        <p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+    {% endif %} {% endcomment %}
+
+     
+    {% endblock %}
 </body>
 </html>
+

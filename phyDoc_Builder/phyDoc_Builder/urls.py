@@ -16,6 +16,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from . import views
+from django.conf import settings
+from django.conf.urls.static import static
+from phyDoc_app.api import  Document_templatesCreateApi, Document_templatesListApi, Document_templatesDeleteApi, Document_templatesUpdateApi, Document_detailsCreateApi, Document_detailsListApi, Document_detailsUpdateApi, Document_detailsDeleteApi
 # from phyDoc_app.views import IndexView
 
 urlpatterns = [
@@ -24,5 +27,6 @@ urlpatterns = [
     path('apiend',views.insertTemplate),
     path('ddapiend/', views.insertDD),#id_binding
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
-  
 ]
+
+

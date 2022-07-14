@@ -6,6 +6,7 @@ class Document_templatesSerializer(serializers.ModelSerializer):
         model = Document_templates
         fields = ('name','Document_template_path')
         
+        
 class Document_detailsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Document_details
