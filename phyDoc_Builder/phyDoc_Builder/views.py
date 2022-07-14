@@ -18,61 +18,6 @@ from reportlab.lib.units import inch
 from reportlab.lib.pagesizes import letter
 from django.core.files.storage import FileSystemStorage
 
-# def insertTemplate(request):
-#     if request.method=="POST" and request.FILES['Document_template_path']: 
-#         name=request.POST.get('name')   
-#         Document_template_path=request.POST.FILES('Document_template_path') 
-#         data={'name':name,'Document_template_path':Document_template_path}
-#         Document_templates.objects.create(content=Document_template_path, uploader=request.user)
-#         headers={'Content-Type': 'application/json'}
-#         read= requests.post('http://127.0.0.1:8000/Document_templates/CreateDT',json=data,headers=headers)
-#         return render(request,'insert.html')
-#     else:
-#         return render(request,'insert.html')  
-       
-# IMAGE_FILE_TYPES = ['png', 'jpg', 'txt']
-# def insertTemplate(request):
-#     form = Document_templatesSerializer()
-#     if request.method == 'POST':
-#         name=request.POST.get('name')
-#         form = Document_templatesSerializer(request.POST, request.FILES)
-#         Document_template_path=request.POST.get('Document_template_path')  
-#         if form.is_valid():
-#             user_pr = form.save(commit=False)
-#             user_pr.display_picture = request.FILES['display_picture']
-#             file_type = user_pr.Document_template_path.url.split('.')[-1]
-#             file_type = file_type.lower()
-#             if file_type not in IMAGE_FILE_TYPES:
-#                 return render(request, 'insert.html')
-#             user_pr.save()
-#             # return render(request, '', {'user_pr': user_pr})
-#             data={'name':name,'Document_template_path':Document_template_path}
-#             headers={'Content-Type': 'application/json'}
-#             read= requests.post('http://127.0.0.1:8000/Document_templates/CreateDT',json=data,headers=headers)
-#             return render(request,'insert.html',{'user_pr': user_pr})
-#     context = {"form": form,}
-#     return render(request, 'insert.html', context)
-
-
-
-# def postcreate(request):
-#     if request.method == 'POST':
-#         form=Document_templatesSerializer(request.POST or None,request.FILES or None)
-#         files = request.FILES.getlist('file')
-#         if form.is_valid():
-#             post = form.save(commit=False)
-#             post.author = request.user
-#             #add everything you want to add here
-#             post.save()
-#             if files:#check if user has uploaded some files
-#                 for f in files:
-#                     Document_templates.objects.create(post=post,file=f)
-             
-#             return redirect('the-name-of-the-view')
-#     else:
-#         form = Document_templatesSerializer()
-#     return render(request,'the-template-you-want-to-rendered-',{'form':form})
-
 def insertTemplate(request):
     if request.method=='POST':
         name=request.POST['name']   
