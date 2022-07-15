@@ -1,0 +1,156 @@
+import Header from "./Header";
+import '../../src/css/style.css'
+import "../../src/css/shortcode/slider.css";
+import Footer from './Footer';
+import { render } from 'react-dom';
+import { Button } from '@material-ui/core';
+import About from './About-us';
+//import Contact from './Contact';
+//import Gallery from './Gallery';
+import Class from './Class';
+import Praveen from './Praveendetail';
+import Asha from './Ashadetail'; 
+import Vimal from './Vimaldetail';
+import Kidsyoga from "./kidsyoga";
+import Carousel from 'react-bootstrap/Carousel';
+//import aboutimg from 'F:/trynewtemplate/src/img/about/about.jpg';
+import slider1 from "../../src/img/slider/1.jpg";
+import slider2 from "../../src/img/slider/2.jpg";
+import s3 from "../../src/img/slider/3.jpg";
+import s4 from "../../src/img/slider/4.jpg";
+import s5 from "../../src/img/slider/5.jpg";
+import c1 from "../../src/img/class/kids/kid4.jpg";
+import c2 from "../../src/img/class/2.jpg";
+import c3 from "../../src/img/class/3.jpg";
+import t1 from "../../src/img/trainer/praveen_profile.jpg";
+import t2 from "../../src/img/trainer/Asha.JPG";
+import t3 from "../../src/img/trainer/Pranayama.JPG";
+import g1 from "../../src/img/gallery/gal.jpg";
+import g2 from "../../src/img/gallery/gal2.jpg";
+import g3 from "../../src/img/gallery/gal3.jpg";
+//import g4 from "F:/trynewtemplate/src/img/gallery/gal4.jpg";
+//import g5 from "F:/trynewtemplate/src/img/gallery/gal5.jpg";
+//import g6 from "F:/trynewtemplate/src/img/gallery/gal6.jpg";
+//import g7 from "F:/trynewtemplate/src/img/gallery/gal7.jpg";
+//import g8 from "F:/trynewtemplate/src/img/gallery/gal8.jpg";
+//import g9 from "F:/trynewtemplate/src/img/gallery/gal9.jpg";
+//import slider from 'F:/trynewtemplate/src/img/slider/slider1.jpg';
+//import slider1 from '../src/img/slider/slider1.jpg'
+
+
+
+function home(){  
+    render(<Home />, document.getElementById('root'));
+  }
+
+function about(){  
+    render(<About />, document.getElementById('root'));
+  }
+  
+function clas(){  
+    render(<Class />, document.getElementById('root'));
+  }
+
+function praveen(){  
+    render(<Praveen />, document.getElementById('root'));
+  }
+
+function asha(){  
+    render(<Asha />, document.getElementById('root'));
+  }
+
+function vimal(){  
+    render(<Vimal />, document.getElementById('root'));
+  }
+
+function kidsyoga(){  
+    render(<Kidsyoga />, document.getElementById('root'));
+  }
+
+function Home() {
+    return(
+        <div>        
+		<header class="top">
+			<div class="header-area ptb-18 header-sticky">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-2">
+							<div class="logo">
+								<a href="index.html"><img src="img/logo/logo.png" alt="COFFEE" /></a>
+							</div>
+						</div>
+						<div class="col-lg-8">
+                            <div class="content-wrapper">
+                                
+                                <div class="main-menu text-center">
+                                    <nav>
+                                        <ul>
+                                            <li><a href="index.html">Home</a></li>
+                                            <li><a href="about-us.html">About us</a></li>
+                                            <li><a href="class.html">classes</a></li>
+                                            <li><a href="gallery.html">gallery</a></li>
+                                            <li><a href="blog.html">blog</a></li>
+                                            <li><a href="contact.html">Contact</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="mobile-menu d-block d-lg-none"></div>
+                                
+                            </div>
+						</div>
+						<div class="col-lg-2 d-none d-lg-block">
+						    <div class="header-contact text-end">
+						        <a class="banner-btn" data-text="contact" href="contact.html"><span>contact</span></a>
+						    </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+    <div class="slider-area">	
+    <div class="slider-wrapper">
+        <div class="single-slide" style={{backgroundImage: `url(${ slider1 })`}}>
+                <div class="slider-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-7">
+                                <div class="text-content-wrapper">
+                                    <div class="text-content text-start">
+                                        <h5>Welcome Our Handstand</h5>
+                                        <h1>Keep <span>Refresh & Strong</span> Your Body</h1>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor pharetra iss neque. Nullam cursus elit sit amet justo interdum facilisis id at tortor. </p>
+                                        <a class="banner-btn" href="gallery.html" data-text="read more"><span>read more</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>     
+        <div class="single-slide" style={{backgroundImage: `url(${ slider2 })`}}>
+                    <div class="slider-content">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-7">
+                                    <div class="text-content-wrapper">
+                                        <div class="text-content text-start">
+                                            <h5>Welcome Our Handstand</h5>
+                                            <h1>Keep <span>Refresh & Strong</span> Your Body</h1>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor pharetra iss neque. Nullam cursus elit sit amet justo interdum facilisis id at tortor. </p>
+                                            <a class="banner-btn" href="gallery.html" data-text="read more"><span>read more</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+		    </div>  
+        
+    </div>
+</div>
+        </div>
+        
+    );
+}
+
+export default Home;

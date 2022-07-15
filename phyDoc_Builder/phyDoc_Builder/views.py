@@ -16,27 +16,25 @@ import io
 from reportlab.pdfgen import canvas
 from reportlab.lib.units import inch
 from reportlab.lib.pagesizes import letter
+from django.core.files.storage import FileSystemStorage
 
 def insertTemplate(request):
-    if request.method=="POST": 
-        name=request.POST.get('name')   
-        Document_template_path=request.POST.get('Document_template_path') 
-        data={'name':name,'Document_template_path':Document_template_path}
-        headers={'Content-Type': 'application/json'}
-        read= requests.post('http://127.0.0.1:8000/Document_templates/CreateDT',json=data,headers=headers)
-        return render(request,'insert.html')
-    else:
-        return render(request,'insert.html')      
-    
+    if request.method=='POST':
+        name=request.POST['name']   
+        Document_template_path=request.FILES['Document_template_path']
+        object=Document_templates.objects.create(name=name, Document_template_path=Document_template_path)
+        object.save()  
+    context=Document_templates.objects.all()
+    return render(request,'insert.html',{'context':context})
+
 def insertDD(request):
     results=Document_templates.objects.all
     if request.method=="POST":
-        id=request.POST.get('id')  
         template_name =request.POST.get('template_name')
         field_name =request.POST.get('field_name') 
         field_type =request.POST.get('field_type')   
         isRequired =request.POST.get('isRequired') 
-        data={'id':id, 'template_name':template_name, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired,}
+        data={'template_name':template_name, 'field_name':field_name, 'field_type':field_type, 'isRequired':isRequired,}
         headers={'Content-Type': 'application/json'}
         read= requests.post('http://127.0.0.1:8000/Document_details/CreateDD',json=data,headers=headers)
         
