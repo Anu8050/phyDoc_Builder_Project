@@ -27,6 +27,8 @@ urlpatterns = [
     path('apiend',views.insertTemplate),
     path('ddapiend/', views.insertDD),#id_binding
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
+    path('template_page/', views.template_page),
+    
 ]
 
 

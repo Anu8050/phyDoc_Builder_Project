@@ -42,7 +42,6 @@ def insertDD(request):
     else:
         return render(request,'insertdd.html',{"bindingid":results}) 
 
-  
 #pdf
 def venue_pdf(request):
 
@@ -72,13 +71,8 @@ def venue_pdf(request):
 
     return FileResponse(buf,as_attachment=True,filename='generatedpdf.pdf')
 
-# def id_binding(request):
-#     results=Document_templates.objects.all
-#     return render(request, "insertdd.html",{"bindingid":results})
 
-
-   
-
-
-
-
+def template_page(request):
+    results=Document_details.objects.all    
+    return render(request,'templatepage.html',{"bindingid":results})
+    

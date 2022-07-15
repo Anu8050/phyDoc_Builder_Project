@@ -36,3 +36,12 @@ class Document_detailsUpdateApi(generics.RetrieveUpdateAPIView):
 class Document_detailsDeleteApi(generics.DestroyAPIView):
     queryset = Document_details.objects.all()
     serializer_class = Document_detailsSerializer
+    
+    
+class GetobjById(generics.RetrieveAPIView):
+    serializer_class = Document_detailsSerializer 
+    model = Document_details
+
+    def get_object(self, queryset=None):
+        # print(self.kwargs.get("id"))
+        return Document_details.objects.get(template_name=self.kwargs.get("id"))
