@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>My Template page</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.min.js"> </script>   
+</head>
+<body>
+   <div id="makepdf">
+      <label style="color:green">Name:</label>
+      <label id="name_placeholder"> </label>
+   </div>
+       <button id="button">Generate PDF</button>
+   <script>
+      document.getElementById("name_placeholder").innerHTML=localStorage.getItem("textvalue");
+      var button = document.getElementById("button");
+      button.addEventListener("click", function () {
+      var doc = new jsPDF("p", "mm", [300, 300]);
+      var makePDF = document.querySelector("#makepdf");
+
+      doc.fromHTML(makePDF);
+      doc.save("GeneratedPdf.pdf");
+   });
+   </script>
+   
+</body>
+</html>
+   
+

@@ -1,5 +1,6 @@
 from email.mime import application
 import json
+from django.http import HttpResponse
 from wsgiref import headers
 from phyDoc_app.models import Document_templates, Document_details
 from phyDoc_app.serializer import Document_templatesSerializer
@@ -9,6 +10,8 @@ from rest_framework.decorators import api_view
 import requests
 from django.shortcuts import render, redirect
 from django.views import generic
+import json
+import pdfkit 
 
 #generating a pdf file
 from django.http import FileResponse
@@ -72,7 +75,69 @@ def venue_pdf(request):
     return FileResponse(buf,as_attachment=True,filename='generatedpdf.pdf')
 
 
-def template_page(request):
-    results=Document_details.objects.all    
-    return render(request,'templatepage.html',{"bindingid":results})
+# def template_page(request):
+#     # print("hi")
+#     # results=Document_templates.objects.all #.filter(template_name_id=48).values()
+#     # results = Document_details.objects.filter(template_name_id=48).values()
+#     # print(type(results))
+#     # for test in results:
+#     #     print(test)
+#     # return results
+#     results = Document_details.objects.all()
+#     # if request.method == 'GET':
+#     #     issue_id = request.GET.get('id')
+#     #     assigned = request.GET.get('assigned')
+#     #     print(assigned)
+#     # res=requests.get('http://127.0.0.1:8000/getbyid/{{<id>}}/').json()
     
+#     # response = requests.get(placeholder_url + 'getbyid/' + str(id) + '/posts')
+#     # user = response.json()
+#     # context = {
+#     #     'name': user
+#     # }
+#     # print(context)
+#     # return render(request, 'templatepage.html', context,{"bindingid":results})
+#     # time_series={
+#     #     "field_name": "aaa",
+#     #     "field_type": "int",
+#     #     "isRequired": "true",
+#     #     "template_name": 24
+#     # }
+#     # json_string = json.dumps(time_series)
+#     # render(request, "foo.html", {'time_series_json_string': json_string})
+    # return render(request,'templatepage.html',{'bindingid':results})
+    
+# def get_by_id(request):
+#     res=requests.get('http://127.0.0.1:8000/getbyid/<id>/').json()
+#     return render(request,'index.html',{'response':res})
+
+def template_page(request):    
+    results = Document_templates.objects.all()
+    return render(request,'new20jul.html',{'bindingid':results})
+ 
+def user_data(request):
+    context = {
+        "field_name": "aaa",
+        "field_type": "int",
+        "isRequired": "true",
+        "template_name": 24
+    }
+    template_name="try.html"
+    return render(request, template_name, context)
+
+def new(request):
+    return render(request,'new20jul.html')
+
+def name_save(request):
+    # path = "C:\Users\User\Desktop\PDB_drf\phyDoc_Builder_Project\phyDoc_Builder\Template\Template\18jul.html"
+    return render(request,'21jul.html')
+
+   
+   
+def pdf(request):
+    projectUrl = request.get_host() + '/name_save/'
+    pdf = pdfkit.from_url(projectUrl, False)
+    response = HttpResponse(pdf,content_type='application/pdf')
+    response['Content-Disposition'] = 'attachment; filename="ourcodeworld.pdf"'
+
+    return response

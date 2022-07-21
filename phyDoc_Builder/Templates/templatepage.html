@@ -1,54 +1,54 @@
 <!DOCTYPE html>
-<head>
-    <title>Create the Document_details</title>
-</head>
-<body>
-    {% block content %}
-    <center>
-        <h1>Inserting for Template Page</h1>
-
-        <form method="POST">
-            {% csrf_token %}
-            <table border="1">
-                <tr>
-                    <td>document template name</td>
-                        <td id="id">
-                            <select name="template_name" id="field_name" onclick="EnterName()">
-                                {% for results in bindingid %}
-                                        <option value="
-                                                       {{results.field_name}}
-                                                        " id ="field_name" >
-                                            {{ results.template_name}} 
-                                        </option>
-                                        
-                        
-                                {% endfor %}
-                                
-                            </select>
-
-
-                            <p style="color:green"id="demo"></p>
-
-                        </td>
-                </tr>
+    <head>
+        <title>Create the Document_details</title>
+    </head>
+    
+    <body>
+        {% block content %}
+        <center>
+            <h1>Inserting for Template Page</h1>
+            <form method="POST">
+                {% csrf_token %}
+                <div >
+              
+                {% comment %} <div >name="template_name" id="field_name" onclick="EnterName()"> {% endcomment %}
                 
-    
-            </table>
-        </form>
+                    selcet template_name:
+                    {% comment %} {% for data in datas %} {% endcomment %}
+                    <select name="template_name" id="field_name"  onclick="EnterName()">
+                        {% for results in bindingid %}
+                            <option value=" {{results.field_name}}">
+                                {{ results.template_name}} 
 
-    </center>
-    <script>
-		function EnterName()
-		{
-			var x= document.getElementById("field_name").value;
+                            </option> 
+                                   
+                        {% endfor %}
+                    </select>
+                    {% comment %} {% endfor %} {% endcomment %}
+                    <p style="color:green"id="demo"></p>
+                </div>  
+                <button type="button" onclick="onclick_event();" > <a href="{% url 'name_save' %}">submit</a></button>  
+            </form>
+        </center>
+        <script>
+            function EnterName()
+            {
+                var x= document.getElementById("field_name").value;
+                document.getElementById("demo").innerHTML = 
+                x +":"+"<input type='text' >"  +
+               "<br>"
+            }
+
+            function onclick_event(){
+                var name= document.getElementById("field_name").value;
+                localStorage.setItem("textvalue",name);
+                return false;
+            }
   
-            document.getElementById("demo").innerHTML = 
-                 x +":"+"<input type='text' value=''>";
-            
-		}
-	</script>
-    
+        </script>
+      
+        {% endblock %}
+    </body>
+    </html>
+  
         
-    {% endblock %}
-</body>
-</html>

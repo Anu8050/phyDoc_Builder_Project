@@ -28,7 +28,9 @@ urlpatterns = [
     path('ddapiend/', views.insertDD),#id_binding
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
     path('template_page/', views.template_page),
-    
+    path('name/', views.new,name='new'),
+    path('name_save/', views.name_save,name='name_save'),
+    path('pdf/',views.pdf),
 ]
 
 
