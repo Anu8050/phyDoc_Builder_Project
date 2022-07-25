@@ -2,14 +2,15 @@
 <head>
     <title>Create the Document_details</title>
 </head>
+
 <body>
     {% block content %}
     <center>
         <h1>Inserting for Document_details</h1>
-        <h2>using django restframework</h2>
         <form method="POST">
             {% csrf_token %}
             <table border="1">
+
                 <tr>
                     <td>document template name</td>
                      <td>
@@ -18,18 +19,19 @@
                                     <option value="{{ results.id }}">{{ results.name}} </option>
                             {% endfor %}
                         </select>
-
                     </td>
-
                 </tr>
+
                 <tr>
                     <td>document details Field name</td>
                     <td><input type="text" placeholder="field name" name="field_name"></td>
                 </tr>
+
                 <tr>
                     <td>document details Field type</td>
                     <td><input type="text" placeholder="field type'..." name="field_type"></td>
                 </tr>
+
                 <tr>
                    <td>document details isRequired?</td>
                     <td>    
@@ -37,11 +39,10 @@
                       <label> <input type="radio" name="isRequired" value="no">No </label>
                     </td>
                 </tr>
+
             </table>
             <input type="submit" value="insert"/>
         </form>
-        <h1>save as pdf from database</h1>  
-        <a href="{% url 'venue_pdf' %}">Generate pdf</a>
     </center>
     {% endblock %}
 </body>

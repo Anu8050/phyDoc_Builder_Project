@@ -1,11 +1,10 @@
 from django.db import models
 
-
 # Create your models here.
 class Document_templates(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=80)
-    Document_template_path = models.FileField(upload_to='Template/')
+    Document_template_path = models.FileField(upload_to='')
     
     def __str__(self):
         return str(self.id)
