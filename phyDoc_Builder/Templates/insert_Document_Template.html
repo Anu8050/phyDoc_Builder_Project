@@ -3,11 +3,11 @@
     <title>Create the document template</title>
 </head>
 <body>
+    {% load static %}
+    {% block content %}
     <center>
         <h1>Inserting for document template</h1>
-        <h2>using django restframework</h2>
-        <form method="POST"  >
-        <form method="post" enctype="multipart/form-data">    
+        <form method="POST" enctype="multipart/form-data">
             {% csrf_token %}
 
             <table border="1">
@@ -21,8 +21,11 @@
                 </tr>
             </table>
             <input type="submit" value="insert"/>
+            
         </form>
     </center>
-    {% block content %} {% endblock %}
+
+    {% endblock %}
 </body>
 </html>
+

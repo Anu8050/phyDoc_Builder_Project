@@ -17,18 +17,13 @@ from django.conf import settings
 from django.contrib import admin
 from django.urls import include, path
 from . import views
-# from phyDoc_app.views import IndexView
-
-from django.conf.urls.static import static
-from django.conf import settings
-from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
-    path('apiend',views.insertTemplate),
-    path('ddapiend/', views.insertDD),#id_binding
-    path('venue_pdf',views.venue_pdf,name='venue_pdf'),
+    path('insert_Document_Template/',views.insert_Document_Template),
+    path('insert_Document_Details/', views.insert_Document_Details),
+    path('generate_Pdf_Template/', views.generate_Pdf_Template),
 ]
 
 
