@@ -25,7 +25,7 @@ def insert_Document_Details(request) -> any:
         read= requests.post('http://127.0.0.1:8000/Document_details/CreateDD',json=data,headers=headers)
         return render(request,'insert_Document_Details.html',{"bindingid":results})
     else:
-        return render(request,'insertdd.html',{"bindingid":results}) 
+        return render(request,'insert_Document_Details.html',{"bindingid":results}) 
 
 def generate_Pdf_Template(request) -> any:   
     '''Rendering template_for_pdf html page for generate pdf.''' 
