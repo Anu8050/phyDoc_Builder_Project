@@ -16,28 +16,21 @@ Including another URLconf
 from django.conf import settings
 from django.contrib import admin
 from django.urls import include, path
+from pip import main
 from . import views
-from django.conf import settings
-from django.conf.urls.static import static
-from phyDoc_app.api import  Document_templatesCreateApi, Document_templatesListApi, Document_templatesDeleteApi, Document_templatesUpdateApi, Document_detailsCreateApi, Document_detailsListApi, Document_detailsUpdateApi, Document_detailsDeleteApi
-# from phyDoc_app.views import IndexView
-
-from django.conf.urls.static import static
-from django.conf import settings
-from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
-    path('apiend/',views.insertTemplate),
-    path('ddapiend/', views.insertDD),#id_binding
-    path('venue_pdf',views.venue_pdf,name='venue_pdf'),
-    path('template_page/', views.template_page),
+
+    path('insert_Document_Template/',views.insert_Document_Template),
+    path('insert_Document_Details/', views.insert_Document_Details),
+    path('generate_Pdf_Template/', views.generate_Pdf_Template),
     path('document_templates',views.document_templates),
     path('document_details',views.document_details),
-     path('read_text_file_from_template',views.readFileFromTemplate),
+    path('read_text_file_from_template',views.readFileFromTemplate),
 
-    
+
 ]
 
 
