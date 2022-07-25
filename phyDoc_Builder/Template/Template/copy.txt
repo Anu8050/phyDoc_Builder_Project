@@ -1,0 +1,88 @@
+http://127.0.0.1:8000/document_template_insertRecord/
+
+
+
+
+views
+def template_page(request):
+    results=Document_details.objects.all    
+    return render(request,'templatepage.html',{"bindingid":results})
+
+    
+
+templatepage.html
+<!DOCTYPE html>
+<head>
+    <title>Create the Document_details</title>
+</head>
+<body>
+    {% block content %}
+    <center>
+        <h1>Inserting for Template Page</h1>
+
+        <form method="POST">
+            {% csrf_token %}
+            <table border="1">
+                <tr>
+                    <td>document template name</td>
+                        <td id="id">
+                            <select name="template_name" id="field_name" onclick="EnterName()">
+                                {% for results in bindingid %}
+                                        <option value="
+                                                       {{results.field_name}}
+                                                        " id ="field_name" >
+                                            {{ results.template_name}} 
+                                        </option>
+                                        
+                        
+                                {% endfor %}
+                                
+                            </select>
+
+
+                            <p style="color:green"id="demo"></p>
+
+                        </td>
+                </tr>
+                
+    
+            </table>
+        </form>
+
+    </center>
+    <script>
+		function EnterName()
+		{
+			var x= document.getElementById("field_name").value;
+  
+            document.getElementById("demo").innerHTML = 
+                 x +":"+"<input type='text' value=''>";
+            
+		}
+	</script>
+    
+        
+    {% endblock %}
+</body>
+</html>
+
+
+
+
+upload.html
+{% extends 'insert.html' %}
+
+{% block content %}
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Upload</button>
+  </form>
+
+  <p><a href="{% url 'home' %}">Return to home</a></p>
+{% endblock %}
+
+
+
+url
+path('template_page/', views.template_page),

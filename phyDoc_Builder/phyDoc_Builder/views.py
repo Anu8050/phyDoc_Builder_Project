@@ -17,6 +17,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.units import inch
 from reportlab.lib.pagesizes import letter
 from django.core.files.storage import FileSystemStorage
+from urllib.parse import unquote
 
 def insertTemplate(request):
     if request.method=='POST':
@@ -76,4 +77,22 @@ def venue_pdf(request):
 def template_page(request):
     results=Document_details.objects.all    
     return render(request,'templatepage.html',{"bindingid":results})
+
+# grid function for document_templates
+def document_templates(request):
+    dt = Document_templates.objects.all()
+    return render(request,'popup.html',{'dtemp': dt})
+
+#grid function for document_details
+def document_details(request):
+    dd = Document_details.objects.all()
+    return render(request,'document_details_grid.html',{'ddetails': dd})
+
+#to read the file from template
+def readFileFromTemplate(request):
+    print("path=>",unquote(request.GET.get("path")) )
+    file = open("C:\\Users\\Admin\Desktop\\phy_doc_proj\\phyDoc_Builder_Project\\phyDoc_Builder\\test.html"+unquote(request.GET.get("path")),mode='r')
+    all_of_it = file.read()
+    file.close()
+    return render(request,'test.html',{'data': all_of_it})
     

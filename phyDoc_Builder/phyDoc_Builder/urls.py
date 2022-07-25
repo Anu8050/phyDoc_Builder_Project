@@ -29,10 +29,14 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 urlpatterns = [
     path('', include('phyDoc_app.urls')),
     path('admin/', admin.site.urls),
-    path('apiend',views.insertTemplate),
+    path('apiend/',views.insertTemplate),
     path('ddapiend/', views.insertDD),#id_binding
     path('venue_pdf',views.venue_pdf,name='venue_pdf'),
     path('template_page/', views.template_page),
+    path('document_templates',views.document_templates),
+    path('document_details',views.document_details),
+     path('read_text_file_from_template',views.readFileFromTemplate),
+
     
 ]
 

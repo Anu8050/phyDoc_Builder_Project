@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            margin: 0 auto;
+            font-size: large;
+            border: 1px solid black;
+        }
+ 
+        h1 {
+            text-align: center;
+            color: #006600;
+            font-size: xx-large;
+            font-family: 'Gill Sans', 'Gill Sans MT',
+            ' Calibri', 'Trebuchet MS', 'sans-serif';
+        }
+ 
+        td {
+            background-color: #E4F5D4;
+            border: 1px solid black;
+        }
+ 
+        th,
+        td {
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+ 
+        td {
+            font-weight: lighter;
+        }
+    
+    </style>
+</head>
+<body>
+ <h1>Document_templates</h1>
+  
+{% if dtemp %}
+ <h1>Show Data</h1>
+ <h3>{{dtemp}}</h3>
+ <table>
+     <tr>
+        
+         <th>id</th>
+         <th>name</th>
+         <th>Document_template_path</th>
+         
+     </tr>
+     {% for doctemp in dtemp %} 
+ <tr>
+    
+     <td>{{doctemp.id}}</td>
+     <td>{{doctemp.name}}</td>
+     <td>{{doctemp.Document_template_path}}</td>
+
+</tr>
+{% endfor %}
+
+</table>
+{% else %}
+ <h1>No Data</h1>
+{% endif %}
+
+</body>
+</html>
