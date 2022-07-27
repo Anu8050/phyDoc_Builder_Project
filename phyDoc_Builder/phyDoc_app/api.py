@@ -57,7 +57,7 @@ class GeneratePdf(View):
         template = Template(html_content)
         final_html = template.substitute(name_placeholder='Anusha', age_placeholder=21, location_placeholder="rr nagar")
         config = pdfkit.configuration(wkhtmltopdf="C:\\Program Files (x86)\\wkhtmltopdf\\bin\\wkhtmltopdf.exe")
-        pdfkit.from_string(final_html, "D:/Testingpdf5.pdf", configuration=config)
+        pdfkit.from_string(final_html, "D:/Testingpdf6.pdf", configuration=config)
         # return HttpResponse(pdfkit.from_string(final_html, "D:/Testingpdf3.pdf", configuration=config))
         return HttpResponse("Success")
         

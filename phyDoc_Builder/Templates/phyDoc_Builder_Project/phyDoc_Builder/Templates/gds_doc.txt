@@ -1,0 +1,34 @@
+GDS Verification and Reporting
+
+Step 1: First we have to extract the data from the documents(text files) which was given by the user.
+
+Step 2: Extracted datas are:
+         1.Text 
+         2.Boundaries
+
+Step 3: We have to identify Pin Names based on the text, Boundary values based on the Boundary objects and x&y co-ordinates based on Boundry values.
+
+Step 4: We have to calculate height and width for each pins.
+
+Step 5: The height should be exact 1 micron(1000) for pin Vdd&Vss and for pin A&B height should be exact 0.15 micron(150). If it is not in that case that pin details will be displayed in another file.
+
+Step 6:The width should be minimum or greater than or equal to 5 micron(5000) for pin Vdd&Vss and for pin A&B width should be minimum or greater than or equal to 0.2 micron(200). If it is not in that case that pin details will be displayed in another file.
+
+Step 7: Then we have to sort the y co-ordinate values in descending order and have to find minimum and maximum value for each y co-ordinates in boundaries, then we have to calculate the distance between two pins, the distance should be minimum 0.25 micron(250)for the pins VDD&VSS and for the pins A&B the distance should be minimum 0.1 micron(100).
+
+Step 8:Next we have to find the VDD&VSS x co-ordinate values, if the x co-ordinate values is not started from zero then it should be displayed in another file.
+
+Step 9:The inner boundary value should be inside the outer boundery value, if in case the inner boundary value extanded out from the outer boundary value means it will be consider as an error and that boundary details will be displayed in another file.
+
+Step 10:Next we have to find that the inner boundary is overlapped properly or not.if it is not overlapped propely means it will be considered as an error
+
+Step 11:To known that if the inner boundary is overlapped propery or not first we need to get the path value(x,y).so we need to check the path value(x,y) for each boundary, later we have to check wheather the path value(x,y) lies between y_min and y_max.
+
+Step 12: Find the height for each inner boundary,later divide the height by 2(h/2) then the divided value should be subtracted by y_min and also it should be added to y_max.
+
+Step 13:And compare the boundary values with path values to check the overlapped boundary.
+
+
+
+
+

@@ -1,0 +1,144 @@
+18
+144
+
+
+
+"COVID-19
+         Clinical Notes: -30 minutes spent wtih patient review chart/medication/history/lab review/patient education/answer questions.
+
+     Others
+         Notes: -f/u chest xray; significant improvement of bil ung fileds lower, upper, right mid and left lingula pneumonia , clinically he is doing much better continues with cough, weakness
+-he will continue albuterol/budesonide
+-covid isolation as per CDC
+-ibuprofen/tylenol prn pain/fever
+-re evaluate in a week to clear for RTW
+-monitor resp distress, go to the ER if symptoms worsen."
+
+
+
+
+"Acute pharyngitis, unspecified etiology
+         Notes: Patient was given an injection and instructed to wait for 15 minutes, pt has had rocephin in past without a reaction so did not wait shot time.
+
+
+Patient identified using the 2 Point Patient Identifier twice prior to treatment.
+
+     Encounter for laboratory testing for COVID-19 virus
+         Lab:SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT  Negative
+                 Value Reference Range
+                SARS CoV 2 RNA Negative  NEG - NEG
+            Viator,Whitney 09/10/2021 03:18:23 PM CDT >
+     Acute pansinusitis, unspecified
+
+  
+Start Azithromycin Tablet, 250 MG, 2 tablets on day one, then 1 tablet daily the following four days, Orally, Once a day, 5 day(s), 6 Tablet, Refills 0
+  
+Start Pseudoeph-Bromphen-DM Syrup, 30-2-10 MG/5ML, 10 ml, Orally, Every 4 hours PRN, 10 days, 120 Milliliter, Refills 1
+     Cough
+
+  
+Start Albuterol Sulfate HFA Aerosol Solution, 108 (90 Base) MCG/ACT, 1-2 puffs as needed, Inhalation, every 4 hrs, 30 days, 1 Inhaler, Refills 1
+     Others
+         Notes: I spent 30 minutes for reviewing the intake nurses documentation and vital signs on the patient, assessing and evaluating the patient, prescribing medication/treatment, and documenting in the patient's chart."
+
+
+
+
+
+
+
+
+
+
+
+"Acute pharyngitis, unspecified etiology
+
+  
+Start Azithromycin Tablet, 250 MG, 2 tablets on day one, then 1 tablet daily the following four days, Orally, Once a day, 5 day(s), 6 Tablet, Refills 0
+     Cough
+
+  
+Start Pseudoeph-Bromphen-DM Syrup, 30-2-10 MG/5ML, 10 ml, Orally, Every 4 hours PRN, 10 days, 120 Milliliter, Refills 1
+     Others
+         Notes: I spent 30 minutes for reviewing the intake nurses documentation and vital signs on the patient, assessing and evaluating the patient, prescribing medication/treatment, and documenting in the patient's chart.
+         Clinical Notes: Patient/parent instructed to quarantine at home for 10 days, following CDC guidelines for positive COVID-19 test result."
+
+
+
+
+
+
+
+
+
+152
+
+"Eye trauma
+         Notes: Patient advised to apply ice to eye for 20mins and patch for 2 days to allow eye to rest."
+
+
+
+
+
+163
+"Others
+         Notes: Patient will return to the clinic Tomorrow 09/10/2021 to heve the right wrist Xray
+Patient instructed to use ice therapy to the affected right wrist for 15-20 minutes at least every 1-2 hours for the next 3 days, then thereafter alternate bwteeen ice and heat therapy 3-4 times a day
+Patient instructed to take OTC Ibuprofen for the pain as needed and to follow the instructions on the box. Patient verbalized understanding."
+
+165
+"Osteoarthritis of left knee, unspecified osteoarthritis type
+
+  
+Start Meloxicam Tablet, 7.5 MG, 1 tablet, Orally, bid with food prn pain., 14 days, 28, Refills 0
+         Notes: Pain management w/current meds. Will Adjust meds as necessary.,
+
+
+Patient was given an injection and instructed to wait for 15 minutes, then left without a reaction.
+
+
+Patient identified using the 2 Point Patient Identifier twice prior to treatment.
+         Referral To:Timothy Risko    Orthopedic Surgery
+              Reason:Please refer to first available at AB&J. X-rays 2 weeks ago at NWTH ER.In process of obtaining.|Marked swelling and pain, Lt knee. Dx'd as osteoarthritis but I think more is going on.|URGENT
+
+     Local infection of the skin and subcutaneous tissue, unspecified
+
+  
+Start Doxycycline Hyclate Tablet, 100 mg, 1 tablet, Orally, twice a day (bid), 10 day(s), 20, Refills 0"
+
+166
+"Strain of left knee, initial encounter
+         Imaging:X ray : Knee, left 2 views
+            Byington,Patricia 09/17/2021 01:52:46 PM CDT > LEFT KNEE 2 VIEWS
+         Notes: Patient advised to apply ice to left knee for 20mins a day at least 3x per day."
+
+
+178
+"Contusion of left elbow, initial encounter
+         Imaging:X ray : Elbow, left
+            Byington,Patricia 09/23/2021 12:04:09 PM CDT > left elbow 2 view
+         Notes: Negative x-rays for left elbow and left wrist, Patients mother advised to apply ice to affected areas for 20mins 3x per day. Patient also advised to take ibuprofen for pain as needed for swelling and pain. If child continues to complain of pain patient will need to be seen in the ED.
+
+     Contusion of left wrist, initial encounter
+         Imaging:X ray : Wrist, left
+            Byington,Patricia 09/23/2021 12:04:46 PM CDT > left wrist 3 view"
+
+
+187
+"Contusion of right knee, initial encounter
+         Imaging:X ray : Knee, right 2 views
+            Byington,Patricia 09/28/2021 02:03:38 PM CDT > right knee 2 view
+         Notes: Patients father advised to apply ice to right knee for 20mins 3x per day for 5 days, can take childerens ibuprofen for pain as needed."
+
+192
+"Injury of left shoulder, initial encounter
+         Imaging:X ray : Shoulder, left
+            Salinas,Ruby 09/04/2021 04:07:56 PM CDT > 3V LT DONE
+         Notes: 1. Left shoulder Xray report indicates Findings: Views of the shoulder demonstrate normal bony ossofication. There is no evidence of Hill-Sachs fracture or dislocation. The bony glenoid and a.c joint space are well-maintained. The visualized ribs and proximal humerus are intact. Impression: Normal shoulder series.
+2. Patient given 60mg Kenelog and 60mg Toradol unjections IM here at the clinic
+3. Patient instructed to rest and use ice therapy to the affected area for 15-20 minutes at least every 1-2 hours for the next 2 days, then thereafter, alternate between ice and heat therapy 3-4 times a day.
+4. Patient instructed to take OTC Ibuprofen for pain and to follow the instructions on the box
+5. Patient instructed to return to the clinic in 1week if no improvement in symptoms for further evaluation and treatment, or follow up with his PCP. Patient and his mother verbalized understanding."
+
+
+
